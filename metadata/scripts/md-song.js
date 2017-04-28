@@ -21,11 +21,6 @@ const tableHead = fields =>
 const tableBody = (fields, rows) =>
   each(rows, row => "|" + fields.map(field => row[field]).join("|") + "|\n");
 
-const Metadata = `
-Number of loops: ${loops.length}
-Fields: ${fields.join(" | ")}
-`;
-
 const SongItem = name =>
   `
 - ${name} (${songs[name].length} loops)`;
@@ -33,18 +28,14 @@ const SongItem = name =>
 const Song = name => {
   const song = songs[name];
   return `
-## ${name}
+# ${name}
+
+- Number of loops: ${song.length}
+
+## Loops
 ${tableHead(fields)}
 ${tableBody(fields, song)}
 `;
 };
 
-const README = `
-# Loops metadata
-${Metadata}
-## Songs
-${each(songNames, SongItem)}
-${each(songNames, Song)}
-`;
-
-process.stdout.write(README);
+process.stdout.write(Song("Lik"));

@@ -41,5 +41,5 @@ stats.unused = Object.keys(raw).reduce((unused, name) => {
 }, []);
 
 process.stdout.write(
-  JSON.stringify(({ missing, unused, found } = stats), null, 2)
+  JSON.stringify(({ missing, unused } = stats), null, 2)
 );
