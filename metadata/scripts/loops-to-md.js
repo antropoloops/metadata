@@ -34,9 +34,6 @@ const Song = name => {
   const song = songs[name];
   return `
 ## ${name}
-
-Number of loops: ${song.length}
-
 ${tableHead(fields)}
 ${tableBody(fields, song)}
 `;
@@ -45,8 +42,6 @@ ${tableBody(fields, song)}
 const README = `
 # Loops metadata
 ${Metadata}
-
-
 ## Songs
 ${each(songNames, SongItem)}
 ${each(songNames, Song)}

@@ -1,0 +1,8 @@
+{
+  "name": "scripts",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "to-slug-case": "^1.0.0"
+  }
+}
