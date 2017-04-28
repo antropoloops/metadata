@@ -1,14 +1,9 @@
 // # copy-audio
-// given a raw/loops directory with audio files
+// given a raw/wavs directory with audio files
 // convert them to mp3 and save into the the song dir
 const toSlugCase = require("to-slug-case");
 const data = require("../BDloops.json");
-const raw = require("../audio-filenames.json")
-  .filter(f => /wav$/.test(f))
-  .reduce((raw, f) => {
-    raw[f.replace(/ \(Congelar.*$/, "")] = { filename: f };
-    return raw;
-  }, {});
+const raw = require("../audio-filenames.json").filter(f => /wav$/.test(f));
 
 const pluck = name => obj => obj[name];
 
@@ -19,28 +14,34 @@ const songs = data.reduce((songs, loop) => {
   return songs;
 }, {});
 
-const fileNames = songs.Lik.map(pluck("nombreArchivo"));
+const loops = songs.Lik
+  .map(pluck("nombreArchivo"))
+  .map(file => ({ name: file, slug: toSlugCase(file) }));
+const wavs = raw.map(f => ({ filename: f, slug: toSlugCase(f) }));
 
-const stats = fileNames.reduce(
-  (stats, name) => {
-    const match = raw[name];
+const find = slug => {
+  for (let i = 0; i < wavs.length; i++) {
+    if (wavs[i].slug.startsWith(slug)) return wavs[i];
+  }
+};
+
+const stats = loops.reduce(
+  (stats, loop) => {
+    const match = find(loop.slug);
     if (match) {
-      match.loopname = name;
+      match.matched = loop.slug;
       stats.found.push(match);
     } else {
-      stats.missing.push(name);
+      stats.missing.push(loop);
     }
     return stats;
   },
   { missing: [], found: [] }
 );
 
-stats.unused = Object.keys(raw).reduce((unused, name) => {
-  if (raw[name].loopname === undefined) unused.push(raw[name].filename);
+stats.unused = wavs.reduce((unused, loop) => {
+  if (!loop.matched) unused.push(loop);
   return unused;
 }, []);
-delete stats.found
 
-process.stdout.write(
-  JSON.stringify((stats), null, 2)
-);
+process.stdout.write(JSON.stringify(stats, null, 2));

@@ -1,102 +1,596 @@
 {
   "missing": [
-    "01 Che Lucero Aguai",
-    "07 Soy Carnaval",
-    "08 Cumbia en la India-1",
-    "14-10 Urubatan",
-    "7-17 Relembrando",
-    "CNRSMH_E_1955_010_001_01",
-    "CNRSMH_E_1959_008_001_001_02",
-    "CNRSMH_E_1968_013_001_001_04",
-    "CNRSMH_E_1968_013_001_001_13",
-    "CNRSMH_E_1972_014_001_001_08",
-    "CNRSMH_E_2000_008_001_001_10",
-    "CNRSMH_I_1968_032_001_15",
-    "CNRSMH_I_1968_032_001_29",
-    "CNRSMH_I_1968_032_005_03",
-    "CNRSMH_I_1968_032_005_09",
-    "CNRSMH_I_1968_032_007_28",
-    "CNRSMH_I_2000_004_012_08",
-    "CNRSMH_I_2007_011_007_03",
-    "Dionisio Ayala-Guaranias Eternas II-04-ANAHI",
-    "Facio Santillan-Sortilegio de la flauta de Los Andes-Volumen 1-03-La vieja chacarera",
-    "La Mechuda",
-    "mama che mose (danza paraguaya)",
-    "PHv2 03 Malambo",
-    "PHv2 06 Mi Atarraya (My Fishing Net)",
-    "Paraguay. Guarani Nandeva & Ayoreo [Ocora] - 06 - Wyrakamyta Mi (Cardinal Bird)",
-    "Tierra Jujena",
-    "benitez valencia trio - ecuador - 09 - longuita mia",
-    "bezerra & genaro da silva - partido alto nota 10 - 01 - a necessidade",
-    "bezerra da silva - partido alto nota 10 vol2 - 04 - apolo do samba",
-    "black music of south america - 04 - capoeira",
-    "black music of south america - 05 - samba da roda",
-    "conjunto morenada - candombe en el uruguay - 01 - llamada",
-    "diableries peruviennes - 08 - ea huinihuinash",
-    "ensemble achalay - musique des andes - 14 - arpita",
-    "fetes indiennes - 01 - carnaval de tinta",
-    "fiestas of peru - 03 - puru purucha",
-    "fiestas of peru - 04 - lamento andino yaravi",
-    "gerardo servin - sortilege de la harpe des andes - 08 - chacareando",
-    "indios del sol - 09 - peru - inti-raymi",
-    "los jairas - bolivia - 09 - el iman de tus ojos",
-    "los jairas - bolivia - 10 - bailecito colonial",
-    "los jairas - bolivia - 11 - san benito",
-    "mountain music of peru - 03 - folk and popular music - catholic mass song",
-    "mountain music of peru - 37 - quechua - colla marriage song",
-    "mountain music of peru - 42 - santiago - long wooden tube",
-    "mountain music of peru - 56 - aymara - lullaby",
-    "musiques de perou paucartambo indiens q'eros - 11 - danse del ucucu",
-    "roberto guarani - harpe paraguayenne - 12 - moliendo cafe",
-    "sergio cuevas - la harpe indienne - 03 - misionera",
-    "viracocha - 08 - tupac amaru",
-    "èquateur - 05 - air de ducena"
+    {
+      "name": "01 Che Lucero Aguai",
+      "slug": "01-che-lucero-aguai"
+    },
+    {
+      "name": "07 Soy Carnaval",
+      "slug": "07-soy-carnaval"
+    },
+    {
+      "name": "08 Cumbia en la India-1",
+      "slug": "08-cumbia-en-la-india-1"
+    },
+    {
+      "name": "14-10 Urubatan",
+      "slug": "14-10-urubatan"
+    },
+    {
+      "name": "7-17 Relembrando",
+      "slug": "7-17-relembrando"
+    },
+    {
+      "name": "CNRSMH_E_1959_008_001_001_02",
+      "slug": "cnrsmh-e-1959-008-001-001-02"
+    },
+    {
+      "name": "CNRSMH_I_1968_032_001_29",
+      "slug": "cnrsmh-i-1968-032-001-29"
+    },
+    {
+      "name": "CNRSMH_I_2000_004_012_08",
+      "slug": "cnrsmh-i-2000-004-012-08"
+    },
+    {
+      "name": "CNRSMH_I_2007_011_007_03",
+      "slug": "cnrsmh-i-2007-011-007-03"
+    },
+    {
+      "name": "La Mechuda",
+      "slug": "la-mechuda"
+    },
+    {
+      "name": "mama che mose (danza paraguaya)",
+      "slug": "mama-che-mose-danza-paraguaya"
+    },
+    {
+      "name": "Tierra Jujena",
+      "slug": "tierra-jujena"
+    },
+    {
+      "name": "benitez valencia trio - ecuador - 09 - longuita mia",
+      "slug": "benitez-valencia-trio-ecuador-09-longuita-mia"
+    },
+    {
+      "name": "bezerra & genaro da silva - partido alto nota 10 - 01 - a necessidade",
+      "slug": "bezerra-genaro-da-silva-partido-alto-nota-10-01-a-necessidade"
+    },
+    {
+      "name": "bezerra da silva - partido alto nota 10 vol2 - 04 - apolo do samba",
+      "slug": "bezerra-da-silva-partido-alto-nota-10-vol2-04-apolo-do-samba"
+    },
+    {
+      "name": "black music of south america - 05 - samba da roda",
+      "slug": "black-music-of-south-america-05-samba-da-roda"
+    },
+    {
+      "name": "conjunto morenada - candombe en el uruguay - 01 - llamada",
+      "slug": "conjunto-morenada-candombe-en-el-uruguay-01-llamada"
+    },
+    {
+      "name": "diableries peruviennes - 08 - ea huinihuinash",
+      "slug": "diableries-peruviennes-08-ea-huinihuinash"
+    },
+    {
+      "name": "fetes indiennes - 01 - carnaval de tinta",
+      "slug": "fetes-indiennes-01-carnaval-de-tinta"
+    },
+    {
+      "name": "indios del sol - 09 - peru - inti-raymi",
+      "slug": "indios-del-sol-09-peru-inti-raymi"
+    },
+    {
+      "name": "los jairas - bolivia - 09 - el iman de tus ojos",
+      "slug": "los-jairas-bolivia-09-el-iman-de-tus-ojos"
+    },
+    {
+      "name": "los jairas - bolivia - 10 - bailecito colonial",
+      "slug": "los-jairas-bolivia-10-bailecito-colonial"
+    },
+    {
+      "name": "mountain music of peru - 03 - folk and popular music - catholic mass song",
+      "slug": "mountain-music-of-peru-03-folk-and-popular-music-catholic-mass-song"
+    },
+    {
+      "name": "mountain music of peru - 37 - quechua - colla marriage song",
+      "slug": "mountain-music-of-peru-37-quechua-colla-marriage-song"
+    },
+    {
+      "name": "mountain music of peru - 42 - santiago - long wooden tube",
+      "slug": "mountain-music-of-peru-42-santiago-long-wooden-tube"
+    },
+    {
+      "name": "mountain music of peru - 56 - aymara - lullaby",
+      "slug": "mountain-music-of-peru-56-aymara-lullaby"
+    },
+    {
+      "name": "roberto guarani - harpe paraguayenne - 12 - moliendo cafe",
+      "slug": "roberto-guarani-harpe-paraguayenne-12-moliendo-cafe"
+    },
+    {
+      "name": "èquateur - 05 - air de ducena",
+      "slug": "quateur-05-air-de-ducena"
+    }
+  ],
+  "found": [
+    {
+      "filename": "LIK (Congelar).wav",
+      "slug": "lik-congelar-wav",
+      "matched": "lik"
+    },
+    {
+      "filename": "02 - Lo Primero Conjunto Miramar - Reina de cumbias (Congelar).wav",
+      "slug": "02-lo-primero-conjunto-miramar-reina-de-cumbias-congelar-wav",
+      "matched": "02-lo-primero-conjunto-miramar-reina-de-cumbias"
+    },
+    {
+      "filename": "02 Baila Rosita (Congelar).wav",
+      "slug": "02-baila-rosita-congelar-wav",
+      "matched": "02-baila-rosita"
+    },
+    {
+      "filename": "02 Puerto Rico y Su Combo - La Cumbia Del Pescador (Congelar).wav",
+      "slug": "02-puerto-rico-y-su-combo-la-cumbia-del-pescador-congelar-wav",
+      "matched": "02-puerto-rico-y-su-combo-la-cumbia-del-pescador"
+    },
+    {
+      "filename": "07 - Lo Primero Conjunto Miramar - Chela (Congelar)-1.wav",
+      "slug": "07-lo-primero-conjunto-miramar-chela-congelar-1-wav",
+      "matched": "07-lo-primero-conjunto-miramar-chela"
+    },
+    {
+      "filename": "08 Cumbia en la India (Congelar)-1.wav",
+      "slug": "08-cumbia-en-la-india-congelar-1-wav",
+      "matched": "08-cumbia-en-la-india"
+    },
+    {
+      "filename": "09 Chant Du Jawari (Congelar).wav",
+      "slug": "09-chant-du-jawari-congelar-wav",
+      "matched": "09-chant-du-jawari"
+    },
+    {
+      "filename": "1-earlyMorningBirds+deer-bone_flute-2'55 (Congelar)-1.wav",
+      "slug": "1-earlymorningbirds-deer-bone-flute-2-55-congelar-1-wav",
+      "matched": "1-earlymorningbirds-deer-bone-flute-2-55"
+    },
+    {
+      "filename": "10 - Atahualpa Yupanqui - Huajra - Camino Del Indio (Congelar)-1.wav",
+      "slug": "10-atahualpa-yupanqui-huajra-camino-del-indio-congelar-1-wav",
+      "matched": "10-atahualpa-yupanqui-huajra-camino-del-indio"
+    },
+    {
+      "filename": "12 Exu (part 2) (Congelar).wav",
+      "slug": "12-exu-part-2-congelar-wav",
+      "matched": "12-exu-part-2"
+    },
+    {
+      "filename": "13 - Luzmila Carpio - Ch'uwa Yaku Kawsaypuni (Congelar).wav",
+      "slug": "13-luzmila-carpio-ch-uwa-yaku-kawsaypuni-congelar-wav",
+      "matched": "13-luzmila-carpio-ch-uwa-yaku-kawsaypuni"
+    },
+    {
+      "filename": "B4 Ritmo de Macumba (Congelar).wav",
+      "slug": "b4-ritmo-de-macumba-congelar-wav",
+      "matched": "b4-ritmo-de-macumba"
+    },
+    {
+      "filename": "CNRSMH_E_1955_010_001_01-1.wav",
+      "slug": "cnrsmh-e-1955-010-001-01-1-wav",
+      "matched": "cnrsmh-e-1955-010-001-01"
+    },
+    {
+      "filename": "CNRSMH_E_1968_013_001_001_04-2.wav",
+      "slug": "cnrsmh-e-1968-013-001-001-04-2-wav",
+      "matched": "cnrsmh-e-1968-013-001-001-04"
+    },
+    {
+      "filename": "CNRSMH_E_1968_013_001_001_08 (Congelar)-2.wav",
+      "slug": "cnrsmh-e-1968-013-001-001-08-congelar-2-wav",
+      "matched": "cnrsmh-e-1968-013-001-001-08"
+    },
+    {
+      "filename": "CNRSMH_E_1968_013_001_001_13.wav",
+      "slug": "cnrsmh-e-1968-013-001-001-13-wav",
+      "matched": "cnrsmh-e-1968-013-001-001-13"
+    },
+    {
+      "filename": "CNRSMH_E_1972_014_001_001_07 (Congelar).wav",
+      "slug": "cnrsmh-e-1972-014-001-001-07-congelar-wav",
+      "matched": "cnrsmh-e-1972-014-001-001-07"
+    },
+    {
+      "filename": "CNRSMH_E_1972_014_001_001_08-1.wav",
+      "slug": "cnrsmh-e-1972-014-001-001-08-1-wav",
+      "matched": "cnrsmh-e-1972-014-001-001-08"
+    },
+    {
+      "filename": "CNRSMH_E_2000_008_001_001_10.wav",
+      "slug": "cnrsmh-e-2000-008-001-001-10-wav",
+      "matched": "cnrsmh-e-2000-008-001-001-10"
+    },
+    {
+      "filename": "CNRSMH_I_1968_032_001_15.wav",
+      "slug": "cnrsmh-i-1968-032-001-15-wav",
+      "matched": "cnrsmh-i-1968-032-001-15"
+    },
+    {
+      "filename": "CNRSMH_I_1968_032_005_03-1.wav",
+      "slug": "cnrsmh-i-1968-032-005-03-1-wav",
+      "matched": "cnrsmh-i-1968-032-005-03"
+    },
+    {
+      "filename": "CNRSMH_I_1968_032_005_09.wav",
+      "slug": "cnrsmh-i-1968-032-005-09-wav",
+      "matched": "cnrsmh-i-1968-032-005-09"
+    },
+    {
+      "filename": "CNRSMH_I_1968_032_007_16 (Congelar).wav",
+      "slug": "cnrsmh-i-1968-032-007-16-congelar-wav",
+      "matched": "cnrsmh-i-1968-032-007-16"
+    },
+    {
+      "filename": "CNRSMH_I_1968_032_007_28.wav",
+      "slug": "cnrsmh-i-1968-032-007-28-wav",
+      "matched": "cnrsmh-i-1968-032-007-28"
+    },
+    {
+      "filename": "CNRSMH_I_2007_011_003_03 (Congelar).wav",
+      "slug": "cnrsmh-i-2007-011-003-03-congelar-wav",
+      "matched": "cnrsmh-i-2007-011-003-03"
+    },
+    {
+      "filename": "CNRSMH_I_2008_008_001_35_E (Congelar)-1.wav",
+      "slug": "cnrsmh-i-2008-008-001-35-e-congelar-1-wav",
+      "matched": "cnrsmh-i-2008-008-001-35-e"
+    },
+    {
+      "filename": "Dionisio Ayala-Guaranias Eternas II-04-ANAHI.wav",
+      "slug": "dionisio-ayala-guaranias-eternas-ii-04-anahi-wav",
+      "matched": "dionisio-ayala-guaranias-eternas-ii-04-anahi"
+    },
+    {
+      "filename": "Facio Santillan-Sortilegio de la flauta de Los Andes-Volumen 1-03-La vieja chacarera.wav",
+      "slug": "facio-santillan-sortilegio-de-la-flauta-de-los-andes-volumen-1-03-la-vieja-chacarera-wav",
+      "matched": "facio-santillan-sortilegio-de-la-flauta-de-los-andes-volumen-1-03-la-vieja-chacarera"
+    },
+    {
+      "filename": "Mistura No. 4 (Congelar).wav",
+      "slug": "mistura-no-4-congelar-wav",
+      "matched": "mistura-no-4"
+    },
+    {
+      "filename": "PHv2 03 Malambo-1.wav",
+      "slug": "phv2-03-malambo-1-wav",
+      "matched": "phv2-03-malambo"
+    },
+    {
+      "filename": "PHv2 06 Mi Atarraya (My Fishing Net)-1.wav",
+      "slug": "phv2-06-mi-atarraya-my-fishing-net-1-wav",
+      "matched": "phv2-06-mi-atarraya-my-fishing-net"
+    },
+    {
+      "filename": "Paraguay. Guarani Nandeva & Ayoreo [Ocora] - 06 - Wyrakamyta Mi (Cardinal Bird)-1.wav",
+      "slug": "paraguay-guarani-nandeva-ayoreo-ocora-06-wyrakamyta-mi-cardinal-bird-1-wav",
+      "matched": "paraguay-guarani-nandeva-ayoreo-ocora-06-wyrakamyta-mi-cardinal-bird"
+    },
+    {
+      "filename": "Paraguay. Guarani Nandeva & Ayoreo [Ocora] - 15 - Idem (Congelar).wav",
+      "slug": "paraguay-guarani-nandeva-ayoreo-ocora-15-idem-congelar-wav",
+      "matched": "paraguay-guarani-nandeva-ayoreo-ocora-15-idem"
+    },
+    {
+      "filename": "academia de capoeira de angola - 08 - toque de capoeira de sao bento grande (Congelar).wav",
+      "slug": "academia-de-capoeira-de-angola-08-toque-de-capoeira-de-sao-bento-grande-congelar-wav",
+      "matched": "academia-de-capoeira-de-angola-08-toque-de-capoeira-de-sao-bento-grande"
+    },
+    {
+      "filename": "afro-bahian religious songs - 09 - congo-angola for dadalunda (Congelar)-1.wav",
+      "slug": "afro-bahian-religious-songs-09-congo-angola-for-dadalunda-congelar-1-wav",
+      "matched": "afro-bahian-religious-songs-09-congo-angola-for-dadalunda"
+    },
+    {
+      "filename": "bezerra & genaro da silva - partido alto nota 10 - 06 - chico chora (Congelar).wav",
+      "slug": "bezerra-genaro-da-silva-partido-alto-nota-10-06-chico-chora-congelar-wav",
+      "matched": "bezerra-genaro-da-silva-partido-alto-nota-10-06-chico-chora"
+    },
+    {
+      "filename": "black music of south america - 01 - arullo san antonio (Congelar).wav",
+      "slug": "black-music-of-south-america-01-arullo-san-antonio-congelar-wav",
+      "matched": "black-music-of-south-america-01-arullo-san-antonio"
+    },
+    {
+      "filename": "black music of south america - 04 - capoeira.wav",
+      "slug": "black-music-of-south-america-04-capoeira-wav",
+      "matched": "black-music-of-south-america-04-capoeira"
+    },
+    {
+      "filename": "chants et danses d'amerique latine - 08 - paco sanchez - la monica perez (Congelar).wav",
+      "slug": "chants-et-danses-d-amerique-latine-08-paco-sanchez-la-monica-perez-congelar-wav",
+      "matched": "chants-et-danses-d-amerique-latine-08-paco-sanchez-la-monica-perez"
+    },
+    {
+      "filename": "conjunto morenada - candombe en el uruguay - 07 - tamboriles (Congelar)-1.wav",
+      "slug": "conjunto-morenada-candombe-en-el-uruguay-07-tamboriles-congelar-1-wav",
+      "matched": "conjunto-morenada-candombe-en-el-uruguay-07-tamboriles"
+    },
+    {
+      "filename": "ensemble achalay - musique des andes - 02 - ofrenda al nino jesus (Congelar).wav",
+      "slug": "ensemble-achalay-musique-des-andes-02-ofrenda-al-nino-jesus-congelar-wav",
+      "matched": "ensemble-achalay-musique-des-andes-02-ofrenda-al-nino-jesus"
+    },
+    {
+      "filename": "ensemble achalay - musique des andes - 14 - arpita.wav",
+      "slug": "ensemble-achalay-musique-des-andes-14-arpita-wav",
+      "matched": "ensemble-achalay-musique-des-andes-14-arpita"
+    },
+    {
+      "filename": "fiestas of peru - 03 - puru purucha-1.wav",
+      "slug": "fiestas-of-peru-03-puru-purucha-1-wav",
+      "matched": "fiestas-of-peru-03-puru-purucha"
+    },
+    {
+      "filename": "fiestas of peru - 04 - lamento andino yaravi-1.wav",
+      "slug": "fiestas-of-peru-04-lamento-andino-yaravi-1-wav",
+      "matched": "fiestas-of-peru-04-lamento-andino-yaravi"
+    },
+    {
+      "filename": "flute indienne - 07 - diablada (Congelar).wav",
+      "slug": "flute-indienne-07-diablada-congelar-wav",
+      "matched": "flute-indienne-07-diablada"
+    },
+    {
+      "filename": "gerardo servin - sortilege de la harpe des andes - 08 - chacareando.wav",
+      "slug": "gerardo-servin-sortilege-de-la-harpe-des-andes-08-chacareando-wav",
+      "matched": "gerardo-servin-sortilege-de-la-harpe-des-andes-08-chacareando"
+    },
+    {
+      "filename": "indios del sol - 01 - bolivia - carnaval d'oruro (Congelar)-1.wav",
+      "slug": "indios-del-sol-01-bolivia-carnaval-d-oruro-congelar-1-wav",
+      "matched": "indios-del-sol-01-bolivia-carnaval-d-oruro"
+    },
+    {
+      "filename": "indios del sol - 03 - bolivia - corne d'appel des bergers (Congelar).wav",
+      "slug": "indios-del-sol-03-bolivia-corne-d-appel-des-bergers-congelar-wav",
+      "matched": "indios-del-sol-03-bolivia-corne-d-appel-des-bergers"
+    },
+    {
+      "filename": "los corazas, carlos bonilla, gonzalo castro - sortilege de la flute equatorienne - 10 - carvana indigena (Congelar)-1.wav",
+      "slug": "los-corazas-carlos-bonilla-gonzalo-castro-sortilege-de-la-flute-equatorienne-10-carvana-indigena-congelar-1-wav",
+      "matched": "los-corazas-carlos-bonilla-gonzalo-castro-sortilege-de-la-flute-equatorienne-10-carvana-indigena"
+    },
+    {
+      "filename": "los crucenos - bolivia canta - 09 - beatriz (Congelar).wav",
+      "slug": "los-crucenos-bolivia-canta-09-beatriz-congelar-wav",
+      "matched": "los-crucenos-bolivia-canta-09-beatriz"
+    },
+    {
+      "filename": "los jairas - bolivia - 11 - san benito.wav",
+      "slug": "los-jairas-bolivia-11-san-benito-wav",
+      "matched": "los-jairas-bolivia-11-san-benito"
+    },
+    {
+      "filename": "mountain music of peru - 11 - quechua - pina pinculu 1 flute (Congelar).wav",
+      "slug": "mountain-music-of-peru-11-quechua-pina-pinculu-1-flute-congelar-wav",
+      "matched": "mountain-music-of-peru-11-quechua-pina-pinculu-1-flute"
+    },
+    {
+      "filename": "music from the land of macchu picchu - 14 - en el hospital de amores (Congelar)-1.wav",
+      "slug": "music-from-the-land-of-macchu-picchu-14-en-el-hospital-de-amores-congelar-1-wav",
+      "matched": "music-from-the-land-of-macchu-picchu-14-en-el-hospital-de-amores"
+    },
+    {
+      "filename": "musiques de perou paucartambo indiens q'eros - 11 - danse del ucucu.wav",
+      "slug": "musiques-de-perou-paucartambo-indiens-q-eros-11-danse-del-ucucu-wav",
+      "matched": "musiques-de-perou-paucartambo-indiens-q-eros-11-danse-del-ucucu"
+    },
+    {
+      "filename": "roberto guarani - harpe paraguayenne - 03 - cascada (Congelar)-1.wav",
+      "slug": "roberto-guarani-harpe-paraguayenne-03-cascada-congelar-1-wav",
+      "matched": "roberto-guarani-harpe-paraguayenne-03-cascada"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 02 - som coiman (Congelar)-1.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-02-som-coiman-congelar-1-wav",
+      "matched": "sergio-cuevas-la-harpe-indienne-02-som-coiman"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 03 - misionera-2.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-03-misionera-2-wav",
+      "matched": "sergio-cuevas-la-harpe-indienne-03-misionera"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 07 - cascada (Congelar)-1.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-07-cascada-congelar-1-wav",
+      "matched": "sergio-cuevas-la-harpe-indienne-07-cascada"
+    },
+    {
+      "filename": "viracocha - 08 - tupac amaru.wav",
+      "slug": "viracocha-08-tupac-amaru-wav",
+      "matched": "viracocha-08-tupac-amaru"
+    },
+    {
+      "filename": "ze' cupido e sua sanfona de oito baixos - 11 - frevo de ze' (Congelar).wav",
+      "slug": "ze-cupido-e-sua-sanfona-de-oito-baixos-11-frevo-de-ze-congelar-wav",
+      "matched": "ze-cupido-e-sua-sanfona-de-oito-baixos-11-frevo-de-ze"
+    }
   ],
   "unused": [
-    "1-earlyMorningBirds+deer-bone_flute-2'55-1.wav",
-    "1-earlyMorningBirds+deer-bone_flute-2'55.wav",
-    "academia de capoeira de angola - 08 - toque de capoeira de sao bento grande-1.wav",
-    "B4 Ritmo de Macumba-1.wav",
-    "B4 Ritmo de Macumba.wav",
-    "black music of south america - 04 - capoeira.wav",
-    "CNRSMH_E_1955_010_001_01-1.wav",
-    "CNRSMH_E_1955_010_001_01.wav",
-    "CNRSMH_E_1968_013_001_001_04-2.wav",
-    "CNRSMH_E_1968_013_001_001_13.wav",
-    "CNRSMH_E_1972_014_001_001_08-1.wav",
-    "CNRSMH_E_1972_014_001_001_08.wav",
-    "CNRSMH_E_2000_008_001_001_10.wav",
-    "CNRSMH_I_1968_032_001_15.wav",
-    "CNRSMH_I_1968_032_005_03-1.wav",
-    "CNRSMH_I_1968_032_005_03.wav",
-    "CNRSMH_I_1968_032_005_09.wav",
-    "CNRSMH_I_1968_032_007_28.wav",
-    "CNRSMH_I_2008_008_001_35_E-1.wav",
-    "Dionisio Ayala-Guaranias Eternas II-04-ANAHI.wav",
-    "ensemble achalay - musique des andes - 14 - arpita.wav",
-    "Facio Santillan-Sortilegio de la flauta de Los Andes-Volumen 1-03-La vieja chacarera.wav",
-    "fiestas of peru - 03 - puru purucha-1.wav",
-    "fiestas of peru - 03 - puru purucha-2.wav",
-    "fiestas of peru - 03 - puru purucha-3.wav",
-    "fiestas of peru - 04 - lamento andino yaravi-1.wav",
-    "flute indienne - 07 - diablada-1.wav",
-    "gerardo servin - sortilege de la harpe des andes - 08 - chacareando.wav",
-    "los jairas - bolivia - 11 - san benito.wav",
-    "musiques de perou paucartambo indiens q'eros - 11 - danse del ucucu.wav",
-    "Paraguay. Guarani Nandeva & Ayoreo [Ocora] - 06 - Wyrakamyta Mi (Cardinal Bird)-1.wav",
-    "Paraguay. Guarani Nandeva & Ayoreo [Ocora] - 06 - Wyrakamyta Mi (Cardinal Bird)-4.wav",
-    "PHv2 03 Malambo-1.wav",
-    "PHv2 03 Malambo.wav",
-    "PHv2 06 Mi Atarraya (My Fishing Net)-1.wav",
-    "PHv2 06 Mi Atarraya (My Fishing Net).wav",
-    "sergio cuevas - la harpe indienne - 02 - som coiman-3.wav",
-    "sergio cuevas - la harpe indienne - 02 - som coiman-4.wav",
-    "sergio cuevas - la harpe indienne - 02 - som coiman-5.wav",
-    "sergio cuevas - la harpe indienne - 02 - som coiman-6.wav",
-    "sergio cuevas - la harpe indienne - 02 - som coiman-7.wav",
-    "sergio cuevas - la harpe indienne - 03 - misionera-2.wav",
-    "sergio cuevas - la harpe indienne - 03 - misionera-3.wav",
-    "sergio cuevas - la harpe indienne - 03 - misionera-4.wav",
-    "viracocha - 08 - tupac amaru.wav"
+    {
+      "filename": "07 - Lo Primero Conjunto Miramar - Chela (Congelar).wav",
+      "slug": "07-lo-primero-conjunto-miramar-chela-congelar-wav"
+    },
+    {
+      "filename": "08 Cumbia en la India (Congelar).wav",
+      "slug": "08-cumbia-en-la-india-congelar-wav"
+    },
+    {
+      "filename": "1-earlyMorningBirds+deer-bone_flute-2'55 (Congelar).wav",
+      "slug": "1-earlymorningbirds-deer-bone-flute-2-55-congelar-wav"
+    },
+    {
+      "filename": "1-earlyMorningBirds+deer-bone_flute-2'55-1.wav",
+      "slug": "1-earlymorningbirds-deer-bone-flute-2-55-1-wav"
+    },
+    {
+      "filename": "1-earlyMorningBirds+deer-bone_flute-2'55.wav",
+      "slug": "1-earlymorningbirds-deer-bone-flute-2-55-wav"
+    },
+    {
+      "filename": "10 - Atahualpa Yupanqui - Huajra - Camino Del Indio (Congelar)-2.wav",
+      "slug": "10-atahualpa-yupanqui-huajra-camino-del-indio-congelar-2-wav"
+    },
+    {
+      "filename": "10 - Atahualpa Yupanqui - Huajra - Camino Del Indio (Congelar).wav",
+      "slug": "10-atahualpa-yupanqui-huajra-camino-del-indio-congelar-wav"
+    },
+    {
+      "filename": "academia de capoeira de angola - 08 - toque de capoeira de sao bento grande-1.wav",
+      "slug": "academia-de-capoeira-de-angola-08-toque-de-capoeira-de-sao-bento-grande-1-wav"
+    },
+    {
+      "filename": "B4 Ritmo de Macumba-1.wav",
+      "slug": "b4-ritmo-de-macumba-1-wav"
+    },
+    {
+      "filename": "B4 Ritmo de Macumba.wav",
+      "slug": "b4-ritmo-de-macumba-wav"
+    },
+    {
+      "filename": "CNRSMH_E_1955_010_001_01.wav",
+      "slug": "cnrsmh-e-1955-010-001-01-wav"
+    },
+    {
+      "filename": "CNRSMH_E_1972_014_001_001_08.wav",
+      "slug": "cnrsmh-e-1972-014-001-001-08-wav"
+    },
+    {
+      "filename": "CNRSMH_I_1968_032_005_03.wav",
+      "slug": "cnrsmh-i-1968-032-005-03-wav"
+    },
+    {
+      "filename": "CNRSMH_I_2008_008_001_35_E (Congelar)-2.wav",
+      "slug": "cnrsmh-i-2008-008-001-35-e-congelar-2-wav"
+    },
+    {
+      "filename": "CNRSMH_I_2008_008_001_35_E (Congelar)-3.wav",
+      "slug": "cnrsmh-i-2008-008-001-35-e-congelar-3-wav"
+    },
+    {
+      "filename": "CNRSMH_I_2008_008_001_35_E (Congelar)-4.wav",
+      "slug": "cnrsmh-i-2008-008-001-35-e-congelar-4-wav"
+    },
+    {
+      "filename": "CNRSMH_I_2008_008_001_35_E (Congelar)-5.wav",
+      "slug": "cnrsmh-i-2008-008-001-35-e-congelar-5-wav"
+    },
+    {
+      "filename": "CNRSMH_I_2008_008_001_35_E (Congelar)-6.wav",
+      "slug": "cnrsmh-i-2008-008-001-35-e-congelar-6-wav"
+    },
+    {
+      "filename": "CNRSMH_I_2008_008_001_35_E (Congelar).wav",
+      "slug": "cnrsmh-i-2008-008-001-35-e-congelar-wav"
+    },
+    {
+      "filename": "CNRSMH_I_2008_008_001_35_E-1.wav",
+      "slug": "cnrsmh-i-2008-008-001-35-e-1-wav"
+    },
+    {
+      "filename": "conjunto morenada - candombe en el uruguay - 07 - tamboriles (Congelar).wav",
+      "slug": "conjunto-morenada-candombe-en-el-uruguay-07-tamboriles-congelar-wav"
+    },
+    {
+      "filename": "fiestas of peru - 03 - puru purucha-2.wav",
+      "slug": "fiestas-of-peru-03-puru-purucha-2-wav"
+    },
+    {
+      "filename": "fiestas of peru - 03 - puru purucha-3.wav",
+      "slug": "fiestas-of-peru-03-puru-purucha-3-wav"
+    },
+    {
+      "filename": "flute indienne - 07 - diablada-1.wav",
+      "slug": "flute-indienne-07-diablada-1-wav"
+    },
+    {
+      "filename": "los corazas, carlos bonilla, gonzalo castro - sortilege de la flute equatorienne - 10 - carvana indigena (Congelar)-2.wav",
+      "slug": "los-corazas-carlos-bonilla-gonzalo-castro-sortilege-de-la-flute-equatorienne-10-carvana-indigena-congelar-2-wav"
+    },
+    {
+      "filename": "los corazas, carlos bonilla, gonzalo castro - sortilege de la flute equatorienne - 10 - carvana indigena (Congelar)-3.wav",
+      "slug": "los-corazas-carlos-bonilla-gonzalo-castro-sortilege-de-la-flute-equatorienne-10-carvana-indigena-congelar-3-wav"
+    },
+    {
+      "filename": "los corazas, carlos bonilla, gonzalo castro - sortilege de la flute equatorienne - 10 - carvana indigena (Congelar).wav",
+      "slug": "los-corazas-carlos-bonilla-gonzalo-castro-sortilege-de-la-flute-equatorienne-10-carvana-indigena-congelar-wav"
+    },
+    {
+      "filename": "music from the land of macchu picchu - 14 - en el hospital de amores (Congelar)-2.wav",
+      "slug": "music-from-the-land-of-macchu-picchu-14-en-el-hospital-de-amores-congelar-2-wav"
+    },
+    {
+      "filename": "music from the land of macchu picchu - 14 - en el hospital de amores (Congelar).wav",
+      "slug": "music-from-the-land-of-macchu-picchu-14-en-el-hospital-de-amores-congelar-wav"
+    },
+    {
+      "filename": "Paraguay. Guarani Nandeva & Ayoreo [Ocora] - 06 - Wyrakamyta Mi (Cardinal Bird)-4.wav",
+      "slug": "paraguay-guarani-nandeva-ayoreo-ocora-06-wyrakamyta-mi-cardinal-bird-4-wav"
+    },
+    {
+      "filename": "PHv2 03 Malambo.wav",
+      "slug": "phv2-03-malambo-wav"
+    },
+    {
+      "filename": "PHv2 06 Mi Atarraya (My Fishing Net).wav",
+      "slug": "phv2-06-mi-atarraya-my-fishing-net-wav"
+    },
+    {
+      "filename": "roberto guarani - harpe paraguayenne - 03 - cascada (Congelar)-2.wav",
+      "slug": "roberto-guarani-harpe-paraguayenne-03-cascada-congelar-2-wav"
+    },
+    {
+      "filename": "roberto guarani - harpe paraguayenne - 03 - cascada (Congelar)-3.wav",
+      "slug": "roberto-guarani-harpe-paraguayenne-03-cascada-congelar-3-wav"
+    },
+    {
+      "filename": "roberto guarani - harpe paraguayenne - 03 - cascada (Congelar).wav",
+      "slug": "roberto-guarani-harpe-paraguayenne-03-cascada-congelar-wav"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 02 - som coiman (Congelar)-8.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-02-som-coiman-congelar-8-wav"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 02 - som coiman-3.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-02-som-coiman-3-wav"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 02 - som coiman-4.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-02-som-coiman-4-wav"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 02 - som coiman-5.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-02-som-coiman-5-wav"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 02 - som coiman-6.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-02-som-coiman-6-wav"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 02 - som coiman-7.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-02-som-coiman-7-wav"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 03 - misionera-3.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-03-misionera-3-wav"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 03 - misionera-4.wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-03-misionera-4-wav"
+    },
+    {
+      "filename": "sergio cuevas - la harpe indienne - 07 - cascada (Congelar).wav",
+      "slug": "sergio-cuevas-la-harpe-indienne-07-cascada-congelar-wav"
+    }
   ]
 }
