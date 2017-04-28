@@ -39,7 +39,8 @@ stats.unused = Object.keys(raw).reduce((unused, name) => {
   if (raw[name].loopname === undefined) unused.push(raw[name].filename);
   return unused;
 }, []);
+delete stats.found
 
 process.stdout.write(
-  JSON.stringify(({ missing, unused } = stats), null, 2)
+  JSON.stringify((stats), null, 2)
 );
