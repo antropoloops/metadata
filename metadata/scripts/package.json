@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "dependencies": {
+    "shelljs": "^0.7.7",
     "to-slug-case": "^1.0.0"
   }
 }

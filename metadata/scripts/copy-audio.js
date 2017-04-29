@@ -1,47 +1,28 @@
-// # copy-audio
-// given a raw/wavs directory with audio files
-// convert them to mp3 and save into the the song dir
-const toSlugCase = require("to-slug-case");
-const data = require("../BDloops.json");
-const raw = require("../audio-filenames.json").filter(f => /wav$/.test(f));
+const shell = require("shelljs");
+const path = require("path");
 
-const pluck = name => obj => obj[name];
+const from = path.join(__dirname, "../../raw/loops/");
+const to = path.join(__dirname, "../../lik/");
+const fullPath = filename => path.join(from, filename);
 
-const songs = data.reduce((songs, loop) => {
-  const name = loop.antropoloop;
-  if (!songs[name]) songs[name] = [];
-  songs[name].push(loop);
-  return songs;
-}, {});
+const found = require("../../lik/missing.json").found;
 
-const loops = songs.Lik
-  .map(pluck("nombreArchivo"))
-  .map(file => ({ name: file, slug: toSlugCase(file) }));
-const wavs = raw.map(f => ({ filename: f, slug: toSlugCase(f) }));
-
-const find = slug => {
-  for (let i = 0; i < wavs.length; i++) {
-    if (wavs[i].slug.startsWith(slug)) return wavs[i];
+const convert = file => {
+  const input = fullPath(file.filename);
+  const output = path.join(to, file.matched + ".mp3");
+  const cmd = `lame -V0 --resample 44100 "${input}" ${output}`;
+  if (shell.exec(cmd)) {
+    console.log("Done!");
   }
 };
+found.slice(0, 10).map(convert);
 
-const stats = loops.reduce(
-  (stats, loop) => {
-    const match = find(loop.slug);
-    if (match) {
-      match.matched = loop.slug;
-      stats.found.push(match);
-    } else {
-      stats.missing.push(loop);
+const print = () => {
+  found.forEach(data => {
+    const full = fullPath(data.filename);
+    if (fs.existsSync(full)) {
+      console.log("PATH", full);
+      console.log("FILE", data.matched);
     }
-    return stats;
-  },
-  { missing: [], found: [] }
-);
-
-stats.unused = wavs.reduce((unused, loop) => {
-  if (!loop.matched) unused.push(loop);
-  return unused;
-}, []);
-
-process.stdout.write(JSON.stringify(stats, null, 2));
+  });
+};
