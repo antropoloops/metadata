@@ -16,4 +16,4 @@ const convert = (file, i, arr) => {
   }
 };
 console.log(found.length)
-found.slice(0, 10).map(convert);
+found.map(convert);
