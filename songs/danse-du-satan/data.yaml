@@ -1,0 +1,147 @@
+id: danse-du-satan
+name: danse du satan
+loops:
+  - id: 02-i-ya-polma-moral-song
+    title: I Ya Polma (Moral Song)
+    album: 'Guinée. Musique Des Kpelle. Chants Polyphoniques, Trompes Et Percussions  '
+    artist: >-
+      Antoine Sagno, Cécé Kolié, Foromo Gbamou, Foromo Onikouyanou, Germain
+      Doparogui, Guo-Guo Camara, Kokoli Haba, Mariba Lamassigui & Siba Fassou
+    year: '1998'
+    country: Guinea
+  - id: 04-ogbeler
+    title: Ögbeler
+    album: >-
+      Tuvinian Singers & Musicians - Chöömej: Throat-Singing From The Center Of
+      Asia
+    artist: folkblog.in.ua - Tuva Ensemble
+    year: '1993'
+    country: Tuva
+  - id: 04-cuentos-de-becerrero
+    title: Cuentos De Becerrero
+    album: 50 Años De Vida Artística
+    artist: Simón Díaz
+    year: '2003'
+    country: Venezuela
+  - id: 04-ivba-ni-kalo-1
+    title: Ivba Ni Kalo
+    album: Miki Jaga & His Dance Band
+    artist: Miki Jaga & His Dance Band
+    year: '1983'
+    country: Nigeria
+  - id: 04-bla-bla-bla
+    title: 'bla, bla, bla'
+    album: Sweet & Dandy '68
+    artist: Toots & The Maytals
+    year: '1968'
+    country: Jamaica
+  - id: 05-danse-du-sind
+    title: Danse Du Sind
+    album: L'Algoza Du Sind
+    artist: Khamisu Khan
+    year: '1979'
+    country: Pakistan
+  - id: 07-satan-your-kingdom-must-come-down-frank-proffitt-vilas-nc
+    title: 'Satan, Your Kingdom Must Come Down'
+    album: High Atmosphere
+    artist: 'Frank Proffitt, Vilas, NC'
+    year: '1965'
+    country: Appalachia
+  - id: 07-brolga-bird-clan-songs
+    title: Brolga Bird Clan Songs
+    album: Australia. Aboriginal Music
+    artist: Various
+    year: '2013'
+    country: Arnhem Land
+  - id: 11-sid-el-arab
+    title: Sid El 'Arab
+    album: Music of the South Sinai Bedouins
+    artist: VA
+    year: '1998'
+    country: Peninsula Sinai
+  - id: 13-missa-luba-kilio
+    title: Kilio
+    album: 'va - Nobody But You [Tristes Humanistes]'
+    artist: Missa Luba
+    year: '2013'
+    country: Rep. Dem. del Congo
+  - id: 14-tonada-del-tormento
+    title: Tonada del tormento
+    album: GRANDES EXITOS
+    artist: SIMON DIAZ
+    year: '2004'
+    country: Venezuela
+  - id: 3-03-bageshwari-1964-2-55
+    title: '3-03 Bageshwari [1964] 2''55'
+    album: >-
+      [EALP1453-54] Festival of India Presents - The Great Tradition of Masters
+      of Music
+    artist: Kishori Amonkar
+    year: '1964'
+    country: India-Rajasthan
+  - id: 6-nansalma-1-27
+    title: nansalma
+    album: Mongolian Traditional Songs by Nansalma
+    artist: Nansalma
+    year: 19xx
+    country: Mongolia
+  - id: a5-idingiti-2-35
+    title: A5 Idingiti 2'35
+    album: '[VPA 8137] Musica del Burundi - Music from Burundi (P.1971)'
+    artist: VA
+    year: '1971'
+    country: Burundi
+  - id: b2-nzenzenze-children-s-game-1-00
+    title: B2 Nzenzenze - Children's game 1'00
+    album: '[6586016] Aka Pygmy_Music_LP'
+    artist: Aka Pygmys
+    year: '1971'
+    country: Rep. Centroafricana
+  - id: b4-pokot-witch-doctor
+    title: Pokot Witch Doctor
+    album: 'Africa:Witchcraft & Ritual Music'
+    artist: Various
+    year: '1975'
+    country: Kenia
+  - id: b5-solo-de-femme-roucoule
+    title: B5 Solo de femme; roucoulé
+    album: '[LD765] Musiques Banda - République Centrafricaine'
+    artist: VA
+    year: '1971'
+    country: Rep. Centroafricana
+  - id: church-service-in-nalka
+    title: Church Service In Nalka
+    album: 'Irian Jaya: Disc Six'
+    artist: Various
+    year: '1973'
+    country: Papua-Nueva Guinea
+  - id: nipponia-02-ozatsuma
+    title: Ozatsuma
+    album: 'Japan: Traditional Vocal and Instrumental Music'
+    artist: Hirokazu Sugiura
+    year: '1976'
+    country: Japon
+  - id: nobody-s-fault-but-mine
+    title: Nobody's fault but mine
+    album: Country Spirituals
+    artist: Rev.Pearly Brown
+    year: '1961'
+    country: georgia
+  - id: spoamr-07-thinking-of-an-old-friend
+    title: Thinking of an Old Friend
+    album: Spring Night on a Moonlit River
+    artist: Chen Lei-Shi
+    year: '1984'
+    country: China
+  - id: muzyka-gagauzov-a06
+    title: muzyka gagauzov a06
+    album: 13562 & 3 muzyka gagauzov
+    artist: 'Lazarev, Stepan'
+    year: '1980'
+    country: Gagauzia
+  - id: trushina-c3
+    title: 'Ходила б я, гуляла б я в зелёном саду'
+    album: Songs of smolensk podneprovie
+    artist: 'Òðóøèíà, Îëüãà Âë.'
+    year: '1984'
+    country: Smolensk

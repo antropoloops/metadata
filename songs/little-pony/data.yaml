@@ -1,0 +1,129 @@
+id: little-pony
+name: little pony
+loops:
+  - id: 01-kanants-par
+    title: 01.Kanants par
+    album: Армянская музыка
+    artist: VA
+    year: '1987'
+    country: Armenia
+  - id: 06-dastgah-e-mahur-ud-solo
+    title: Ud Solo
+    album: Music of Iran II
+    artist: VA
+    year: '1994'
+    country: Iran
+  - id: 08-ewan-maccoll-w-peggy-seeger-johnny-lad
+    title: Johnny Lad
+    album: The Folk Song Tradition
+    artist: 'Ewan MacColl / Peggy Seeger '
+    year: '1956'
+    country: Escocia
+  - id: 11-la-flauta-y-el-tamboril
+    title: La flauta y el tamboril
+    album: >-
+      volumen 10 - Instrumentos Folklóricos- Folklore Infantil y Navideño. MAGNA
+      ANTOLOGÍA DEL FOLKLORE ESPAÑOL
+    artist: VA
+    year: '1960'
+    country: España
+  - id: 14-my-little-pony-needs-new-shoes
+    title: My Little Pony Needs New Shoes
+    album: Music For Children (Schulwerk)
+    artist: Chorus of the Children's Opera Group
+    year: '2013'
+    country: Alemania
+  - id: 14-ukercin-kuu
+    title: UKercin Kuu
+    album: Mongolian Songs
+    artist: VA
+    year: '1999'
+    country: Mongolia
+  - id: a2-ibita-et-percussion-region-ngounie-1
+    title: 'A2 Ibita et Percussion, Region Ngounie'
+    album: AR33487 le gabon eternel
+    artist: Various
+    year: '1976'
+    country: Gabon
+  - id: accent-on-steam-v1-14-czechoslovakian-2-10-0-class-556-1
+    title: 'Czechoslovakian 2-10-0, Class 556'
+    album: Accent on Steam Volume One
+    artist: Arkay Enterprises
+    year: '1978'
+    country: Republica Socialista de Checoslovaquia
+  - id: b3-tiboro-famousvoodoo-drummer-2-33
+    title: Ti Roro (Drum Solo)
+    album: Songs Dances and Drums of Haiti
+    artist: Ti Roro
+    year: 19xx
+    country: Haiti
+  - id: cbs-65954-a02-chant-accompagne-par-un-ritchak-et-un-zer-barhali
+    title: Chant accompagne par un ritchak et un zer-barhali
+    album: L'Afghanistan
+    artist: VA
+    year: '1974'
+    country: Afganistan
+  - id: cnrsmh-e-1979-012-009-001-03
+    title: Chant de selle
+    album: 'Chants de selle Teda [Disque souple encarté]'
+    artist: Teda people
+    year: '1965'
+    country: Chad
+  - id: cnrsmh-e-1997-007-001-001-12
+    title: Gude worbe et gude rewbe des Riimaaybe
+    album: Burkina Faso. La voix des Peuls_S. Loncke
+    artist: fulani people (peuls)
+    year: '1992'
+    country: Burkina Faso
+  - id: cnrsmh-e-1998-014-001-001-13
+    title: 'Rituels féminins : tambours de femmes'
+    album: Côte d'Ivoire - Musiques de we (guéré)
+    artist: We (guere)
+    year: '1965'
+    country: Costa de Marfil
+  - id: cnrsmh-i-1968-032-007-33
+    title: CHANT  DE CHASSE A L'OISEAU DE PROIE
+    album: 'PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES'
+    artist: Guayaki people
+    year: '1963'
+    country: Paraguay
+  - id: cnrsmh-i-1968-032-009-06
+    title: CHANT DE CHASSE A L'OISEAU DE PROIE
+    album: 'PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES'
+    artist: Guayaki people
+    year: '1963'
+    country: Paraguay
+  - id: cnrsmh-i-2007-008-001-31
+    title: 'Chant masculin, flûte, clarinette et calebasse'
+    album: >-
+      Burkina Faso - Peuls JelgooBe (province du Soum), missions S. Loncke
+      1994-1995
+    artist: PEULS JELGOOBE (RIMBE)
+    year: '1994'
+    country: Burkina Faso
+  - id: cnrsmh-i-2013-017-001-15
+    title: >-
+      Mexico, Puebla - Les coqs et les chiens réveillent le village de la
+      Preciosita
+    album: 'Ambiances sonores et enregistrements de terrain, sélection'
+    artist: gallo
+    year: '2005'
+    country: Mexico
+  - id: marcel-cellier-mysterious-albania-09-bagpipe-tune-from-pogradec
+    title: Bagpipe Tune From Pogradec
+    album: Mysterious Albania
+    artist: Various
+    year: '2002'
+    country: Albania
+  - id: nguyen-vinh-bao-ensemble-vietnam-ocora-01-vong-co
+    title: Vong Co
+    album: 'Vietnam: Nguyen Vinh Bao Ensemble'
+    artist: Various
+    year: '2002'
+    country: Vietnam
+  - id: lithuania-05
+    title: 'Ralia, rolia'
+    album: Folk music of the Lithuanian SSR
+    artist: VA
+    year: '1986'
+    country: Lituania

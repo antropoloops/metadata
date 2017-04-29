@@ -1,0 +1,123 @@
+id: tunnings-from-my-brother
+name: Tunnings from my brother
+loops:
+  - id: 01-al-kartch
+    title: Al-Kartch
+    album: 'Music of the Nubians, Aswan, Egypt'
+    artist: Aswan Troupe for Folkloric Arts
+    year: '1998'
+    country: Egipto
+  - id: 02-chant-de-femmes
+    title: Chant de femmes
+    album: '[ocora] Burundi: Musiques Traditionnelles'
+    artist: Various Artists
+    year: '1967'
+    country: Burundi
+  - id: 02-dannoura
+    title: Dan no ura
+    album: 'Biwa, The World of Tsuruta Kin'
+    artist: Mizuki Yoko/Tsuruta Kinshi
+    year: '1972'
+    country: Japon
+  - id: 03-nubian-rhythms
+    title: Nubian Rhythms
+    album: 'Music of the Nubians, Aswan, Egypt'
+    artist: VA
+    year: '1998'
+    country: Egipto
+  - id: 04-zafa
+    title: Zafa
+    album: 'Music of the Nubians, Aswan, Egypt'
+    artist: VA
+    year: '1998'
+    country: Egipto
+  - id: 06-forkey-deer-sidna-myers-hillsvill-va
+    title: Forkey Deer
+    album: High Atmosphere
+    artist: 'Sidna Myers, Hillsvill, VA'
+    year: '1965'
+    country: Virginia
+  - id: 07-tolagai
+    title: Toliagai
+    album: Music of Kazakhstan I
+    artist: Kairat Baibosynov
+    year: '1994'
+    country: Kazajstan
+  - id: 10-half-shaved-wade-ward-independence-va
+    title: Half Shaved
+    album: High Atmosphere
+    artist: 'Wade Ward, Independence, VA'
+    year: '1965'
+    country: Virginia
+  - id: 11-a-mi-mata-la-pena
+    title: A Mi Mata la Pena
+    album: Mata la Pena
+    artist: Manuel Vallejo
+    year: '1935'
+    country: España
+  - id: 24-madisons-lively-stones-its-time-to-make-a-change
+    title: It's Time to Make A Change
+    album: Classic African American Gospel
+    artist: VA
+    year: '1994'
+    country: Washington
+  - id: a11-eskimotravelsong-0-49
+    title: Eskimo Travel Song
+    album: The Music Of Primitive Man
+    artist: ''
+    year: '1973'
+    country: Alaska
+  - id: a19-cunashamanchant-03
+    title: ''
+    album: The Music Of Primitive Man
+    artist: ''
+    year: '1973'
+    country: Panama
+  - id: a9-laplandsamijoik-1-18
+    title: Cuna Shaman´s Chant
+    album: The Music Of Primitive Man
+    artist: cuna people
+    year: '1973'
+    country: Laponia
+  - id: azizmian-a-29-55
+    title: Bakhsh deta too bat kuchh Bhi na thi
+    album: Qawwal
+    artist: Aziz Mian
+    year: '1978'
+    country: Pakistan
+  - id: haj-mehdi-ben-mbarak-assife-ingui-a-5-03
+    title: assife ingui
+    album: assife ingui
+    artist: Haj Mehdi Ben_Mbarak
+    year: 19¿¿
+    country: Marruecos
+  - id: hamida-didouch-b
+    title: Ya Binte Lamdina
+    album: Kais el belhar
+    artist: Hamida Didouch
+    year: 19¿¿
+    country: Argelia
+  - id: josephinebaker-besamemucho
+    title: Besame Mucho
+    album: 78 rpm
+    artist: Josephine Baker
+    year: 19¿¿
+    country: Francia
+  - id: the-story-of-the-music-box-30-holy-city
+    title: Holy City
+    album: The Story of the Music Box
+    artist: Console
+    year: '1892'
+    country: Reino Unido
+  - id: kyys-debiliie-b4
+    title: Khachylaan Kuo's song (from the olonkho Yuryung Uolan)
+    album: 'Yakut epopeya heroica '
+    artist: Ustin Nohsorov
+    year: '1993'
+    country: Yakutia
+  - id: morse
+    title: Morse
+    album: Murmurs Of Earth 03 sounds
+    artist: Murmurs Of Earth
+    year: '1977'
+    country: Florida

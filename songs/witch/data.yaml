@@ -1,0 +1,151 @@
+id: witch
+name: witch
+loops:
+  - id: 01-wayang-wong
+    title: Wayang Wong
+    album: 'Les Musiques Du Ramayana, Vol. 3: Bali/Sunda'
+    artist: Orchestre de la troupe de Telepud
+    year: '1971'
+    country: Bali
+  - id: 05-clarinettes-taquara
+    title: Clarinettes Taquara
+    album: Musiques du Haut Xingu — Ocora C 580022
+    artist: Haut Xingu people
+    year: '1976'
+    country: Parque Indígena de Xingu
+  - id: 05-mogombi-appel-de-chasse
+    title: Mogombi (Appel de chasse)
+    album: '[ocora] Africa Centrafrique Anthologies de La Musique Des Pygmees'
+    artist: aka pigmee
+    year: '1978'
+    country: Rep. Centroafricana
+  - id: 08-arc-de-chasse
+    title: Arc De Chasse
+    album: 'Namibie: Bushmen Ju''hoansi - Musique Instrumentale'
+    artist: Various
+    year: '1995'
+    country: Namibia
+  - id: 08-ceremonie-du-kuarup
+    title: Ceremonie du Kuarup
+    album: Musiques du Haut Xingu — Ocora C 580022
+    artist: Haut Xingu people
+    year: '1976'
+    country: Parque de Xingu
+  - id: 1-laramu-4-11-1
+    title: laramu
+    album: Uganda - Nanga special
+    artist: unknown
+    year: 19¿¿
+    country: Uganda
+  - id: 1-ahi-gavegave
+    title: Ahi Gavegave
+    album: Vanuatu. New Hebrides Ritual & Custom Music
+    artist: Various
+    year: '1970'
+    country: Vanuatu
+  - id: 14-rogativas
+    title: Rogativas
+    album: >-
+      volumen 09 - Murcia - Tenerife - Cádiz - Ciudad Real - Cáceres. MAGNA
+      ANTOLOGÍA DEL FOLKLORE ESPAÑOL
+    artist: Various
+    year: '1980'
+    country: Murcia
+  - id: 20-conque
+    title: Conque
+    album: 'Amdo: Monastère Tibétain De Labrang'
+    artist: Various
+    year: '1996'
+    country: Tibet
+  - id: 31-vaqueirada-ii
+    title: Vaqueirada II
+    album: volumen 07 - Extremadura - Asturias. MAGNA ANTOLOGÍA DEL FOLKLORE ESPAÑOL
+    artist: '*VARIOS ARTISTAS*'
+    year: '1980'
+    country: Asturias
+  - id: 32-mi-caja-llora
+    title: Mi caja llora
+    album: Grito en el Cielo - Vol 1
+    artist: Leda Valladares
+    year: '1994'
+    country: Argentina
+  - id: a-musical-anthology-of-the-orient-india-iv-side-b-3-tuning-of-the-vina
+    title: Tuning of the vina
+    album: A Musical Anthology of the Orient - India IV
+    artist: Various
+    year: '1973'
+    country: India
+  - id: a1-various-flutes-and-trumpet
+    title: A1 Various flutes and trumpet
+    album: >-
+      LP 2 - Tukano Tribes of the North West Amazon / Makuna of the North West
+      Amazon
+    artist: Various
+    year: '1960'
+    country: Colombia
+  - id: animals-of-africa-02-vervet-monkey
+    title: Vervet Monkey
+    album: 'Animals of Africa: Sounds of the Jungle, Plain & Bush'
+    artist: Vervet Monkey
+    year: '1973'
+    country: Tanzania
+  - id: armenie-musiciens-traditionnels-du-tavush-inedit-03-b-ibuli-hit-sring
+    title: B'ibuli Hit (Sring)
+    album: 'Armenie. Musiciens Traditionnels Du Tavush [Inedit]'
+    artist: Zaven Azibekian and kamo nazarian
+    year: '2002'
+    country: Armenia
+  - id: b1-threewhaletrip-16-19
+    title: Three Whale Trip
+    album: Songs of the Humpback Whale
+    artist: Humpback Whale
+    year: '1970'
+    country: Bermudas
+  - id: cnrsmh-e-1958-006-003-001-01
+    title: Pour faire danser les femmes
+    album: Afrique - Vol.3 - Batteries africaines
+    artist: 'Adioukrou, Baoulé, KONON, Malinké, Nago'
+    year: '1952'
+    country: Costa de Marfil
+  - id: cnrsmh-e-2013-012-001-01
+    title: Wedding song (Izwirrign) of the Ida Ouzddout _01
+    album: Towards a Comparison of Wedding Rituals in Morocco
+    artist: varios
+    year: '1979'
+    country: Marruecos
+  - id: tibet-musiques-sacrees-ocora-05-ceremonie-de-benediction
+    title: Cérémonie De Bénédiction
+    album: Tibet. Musiques Sacrées
+    artist: Various
+    year: '1971'
+    country: Tibet
+  - id: vietnam-anthology-of-ede-music-02-le-sifflement-du-vent
+    title: Le Sifflement Du Vent
+    album: 'Viêtnam: Anthology Of Êdê Music'
+    artist: Various
+    year: '1997'
+    country: Vietnam
+  - id: vietnam-music-from-hue-01-tam-luan-cuu-chuyen-three-wheels-nine-variations
+    title: 'Tam Luan Cuu Chuyen (Three Wheels, Nine Variations)'
+    album: Vietnam. Music From Hue. Court Music And Hue Songs
+    artist: Various
+    year: '1997'
+    country: Vietnam
+  - id: witch-stories
+    title: Witch Stories
+    album: Library of Congress Recordings
+    artist: Aunt Molly Jackson
+    year: '1939'
+    country: Nueva York
+  - id: b2-donkey-wants-water
+    title: Donkey Wants Water
+    album: Let's Go Calypso! Top Singers And Bands From The Bahamas
+    artist: Bay Street Boys
+    year: 195-
+    country: Bahamas
+  - id: folk-music-of-venezuela-11-canto-para-matar-laculebra
+    title: canto para matar la culebra
+    album: folk music of venezuela
+    artist: unknown
+    year: '1940'
+    country: Caracas

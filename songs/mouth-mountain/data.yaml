@@ -1,0 +1,142 @@
+id: mouth-mountain
+name: mouth mountain
+loops:
+  - id: 0009-t1213r03
+    title: 'One, Two, Three, Heel And Toe'
+    album: Cultural equity_Grenada
+    artist: 'norris welsh, mouth bow'
+    year: '1962'
+    country: Granada caribe
+  - id: a4-b-jew-s-harp-without-frame
+    title: Pakapaka (Jew's-Harp without frame)
+    album: '[C 064-18121] Peuls - Musical Atlas - Unesco Collections (EMI Italiana)'
+    artist: 'Mahamuudu, Hamma, Abdullaay'
+    year: '1975'
+    country: Nigeria
+  - id: cnrsmh-e-1955-008-001-001-12
+    title: Air du Secret des Vodoun
+    album: Dahomey - musique des princes. fêtes des Tohossu
+    artist: 'ROUGET, GILBERT & VERGER, PIERRE'
+    year: '1955'
+    country: Benin
+  - id: cnrsmh-e-1997-021-002-002-06
+    title: Guimbarde en laiton djam
+    album: 'Viet Nam,'
+    artist: HMONG people
+    year: '1997'
+    country: Vietnam
+  - id: cnrsmh-e-2011-023-001-001-15
+    title: Jeu du xylophone oto à trois lames
+    album: Bénin. Musiques Yoruba - les voix de la mémoire
+    artist: Yoruba people
+    year: '1958'
+    country: Benin
+  - id: cnrsmh-i-1967-004-013-02
+    title: Chant (hommes)
+    album: 'Vietnam, Montagnards du Centre, Chambure'
+    artist: SRE people
+    year: '1960'
+    country: Vietnam
+  - id: cnrsmh-i-1968-015-002-09
+    title: Guimbarde
+    album: 'Nouvelle Guinée, Gaisseau, Tournage de films (lieux - Chimbu, Mendi, Tari)'
+    artist: VA
+    year: '1957'
+    country: Papua-Nueva Guinea
+  - id: cnrsmh-i-1968-015-002-11
+    title: Chant (hommes)
+    album: 'Nouvelle Guinée, Gaisseau, Tournage de films (lieux - Chimbu, Mendi, Tari)'
+    artist: VA
+    year: '1957'
+    country: Papua-Nueva Guinea
+  - id: cnrsmh-i-1968-032-003-02
+    title: SUR LA MORT D'UNE MERE
+    album: 'PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES'
+    artist: Guayaki people
+    year: '1963'
+    country: Paraguay
+  - id: cnrsmh-i-1968-032-007-25
+    title: CHANTS DE CHASSE
+    album: 'PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES'
+    artist: Guayaki people
+    year: '1963'
+    country: Paraguay
+  - id: cnrsmh-i-1968-032-007-28
+    title: CHANT DE CHASSE
+    album: 'PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES'
+    artist: Guayaki people
+    year: '1963'
+    country: Paraguay
+  - id: cnrsmh-i-1968-032-009-03
+    title: MYTHOLOGIES ANIMALES
+    album: 'PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES'
+    artist: Guayaki people
+    year: '1963'
+    country: Paraguay
+  - id: cnrsmh-i-1968-032-009-04
+    title: 'INFORMATIONS SUR : PERFORATION DE LA LEVRE'
+    album: 'PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES'
+    artist: Guayaki people
+    year: '1963'
+    country: Paraguay
+  - id: cnrsmh-i-2007-002-001-23
+    title: Hat giai (au village de Lô Khê)
+    album: 'Viet Nam, Répertoire et techniques principales du Ca trù, Anisensel, 2007'
+    artist: Kihn people
+    year: '2007'
+    country: Vietnam
+  - id: cnrsmh-i-2009-001-005-07
+    title: Réunion Tum-tum
+    album: 'Chad, TIBESTI; 1965'
+    artist: Teda people
+    year: '1965'
+    country: Chad
+  - id: cnrsmh-i-2009-001-025-07
+    title: 'Dobana Terkya, chant homme solo'
+    album: 'Chad, TIBESTI; 1965'
+    artist: Teda people
+    year: '1965'
+    country: Chad
+  - id: cnrsmh-i-2012-003-001-31
+    title: 'Chant de femmes kotoko et '
+    album: 'Chad, LOGONE'
+    artist: Kotoko people
+    year: '1965'
+    country: Chad
+  - id: cnrsmh-i-2013-017-001-05
+    title: 'Californie, Desert - Un criquet chante dans le désert'
+    album: 'Ambiances sonores et enregistrements de terrain, sélection'
+    artist: animal
+    year: '2005'
+    country: California
+  - id: no-10-wrestling-music-2-33
+    title: Wrestling Music (mgbereke ote)
+    album: '[BM 30 L 2311] Nigeria III - Igbo Music - P.1965'
+    artist: VA
+    year: '1965'
+    country: Nigeria
+  - id: >-
+      orchestre-et-lithophones-kabiye-ocora-07-mola-double-tambour-d-aisselle-longa
+    title: Double Tambour D'Aisselle Longa
+    album: Orchestre Et Lithophones Kabiye
+    artist: Various
+    year: '2005'
+    country: Togo
+  - id: cnrsmh-i-1982-018-001-01
+    title: 'MYTHE D''ORIGINE DE LA LANGUE SECRÈTE, EN LANGUE SECRÈTE'
+    album: 'BURKINA FASO. LE MOAL, G.; 1952-82'
+    artist: 'Bwa, dit ''Bobo oulé'' people'
+    year: '1952'
+    country: Burkina Faso
+  - id: cnrsmh-i-1968-015-001-01
+    title: Guimbarde
+    album: 'Nouvelle Guinée, Gaisseau, Tournage de films (lieux : Chimbu, Mendi, Tari)'
+    artist: CHIMBU people
+    year: '1957'
+    country: Papua-Nueva Guinea
+  - id: cnrsmh-e-1959-012-001-001-03
+    title: Solo et choeur de femme Bangombé
+    album: Musique pygmée la Haute Sangha
+    artist: BABINGA BANGOMBE
+    year: '1946'
+    country: Rep. Centroafricana

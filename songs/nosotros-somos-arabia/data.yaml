@@ -1,0 +1,141 @@
+id: nosotros-somos-arabia
+name: Nosotros somos Arabia
+loops:
+  - id: 01-ravoi-bak-borai
+    title: 01 Ravoi Bak Borai
+    album: Sacred Flute Music From New Guinea. Vol 1
+    artist: Brothers Vagh and Gombreh
+    year: '1976'
+    country: Papua-Nueva Guinea
+  - id: 02-kulu-pape
+    title: Kulu Pape
+    album: Huli Highlands. Papua New Guinea
+    artist: Various
+    year: '1974'
+    country: Papua-Nueva Guinea
+  - id: 02-tambour-de-bois-garamut-kara
+    title: Tambour De Bois Garamut (Kara)
+    album: New Ireland - Papua New Guinea
+    artist: Kara people
+    year: '1974'
+    country: Papua-Nueva Guinea
+  - id: '05'
+    title: Aleko
+    album: Ethiopie meridionale. musique des maale
+    artist: Various
+    year: '2001'
+    country: Etiopia
+  - id: 09
+    title: Otsa
+    album: Ethiopie meridionale. musique des maale
+    artist: Maale people
+    year: '2001'
+    country: Etiopia
+  - id: 1-02-dikr-part-2
+    title: Dikr (Part 2)
+    album: 'Aissaoua Sufi Ceremony, Marrakesh, Morocco'
+    artist: Various
+    year: '1998'
+    country: Marruecos
+  - id: my-beloved-reindeer-has-great-antlers-1
+    title: My Beloved Reindeer Has Great Antlers
+    album: 'Siberia: Songs Of Nature And Animals'
+    artist: Slava Egorovic Kemlil
+    year: '1994'
+    country: Kolyma
+  - id: paksa-arabia
+    title: Badaouiah (The Female Bedouin)
+    album: AGAEB EL RAKASAT EL SABAA(the miracles of the 7 dances)
+    artist: DALAAT FAKHAT
+    year: '1975'
+    country: Egipto
+  - id: a1-arc-en-bouche-masango
+    title: Arc-en-bouche Masango
+    album: Musique du Gabon
+    artist: Masango people
+    year: '1967'
+    country: Gabon
+  - id: a4-igbin-drums
+    title: Igbin Drums
+    album: Drums Of The yoruba of Nigeria
+    artist: Yoruba people
+    year: '1956'
+    country: Nigeria
+  - id: b2-saut-arabi
+    title: Saut Arabi
+    album: Bahrain - Musical Atlas v. 23
+    artist: Ali Khaled and his ensemble
+    year: '1976'
+    country: Barein
+  - id: bumbo
+    title: Bumbo
+    album: 'Irian Jaya: Disc Two'
+    artist: Grupo de LImlim
+    year: '1992'
+    country: Papua-Nueva Guinea
+  - id: cbs-65954-a01-solo-de-zer-barharli
+    title: Solo de zer-barharli
+    album: L'Afghanistan
+    artist: Various Afghani Artists
+    year: '1974'
+    country: Afganistan
+  - id: esp165505-a1-chidori-no-kyoku
+    title: Chidori  no kyoku
+    album: Le Koto de Yuzen Kuzuhara
+    artist: Yoshizawa Kenggyo
+    year: '1978'
+    country: Japon
+  - id: mitwoihvl-18-tar-solo-in-dastgah-mahur
+    title: Tar solo in dastgah Mahur
+    album: 'v/a - Music in the World of Islam: The Human Voice/Lutes'
+    artist: Hussein Ali Zodeh
+    year: '1976'
+    country: Iran
+  - id: music-in-the-karakorams-of-central-asia-side-2-3
+    title: Buzm
+    album: Music in the Karakorams of Central Asia
+    artist: Hashim Shah
+    year: '1974'
+    country: Pakistan
+  - id: yo-quiero-un-caballo-negro
+    title: Yo quiero un Caballo Negro
+    album: Yo me he Criao a Puro Campo
+    artist: Atahualpa Yupanqui
+    year: '1971'
+    country: Argentina
+  - id: 16-el-pueblo-peronista
+    title: El Pueblo peronista
+    album: cancionero de la liberacion
+    artist: Marta Larreina-Oscar Rovito
+    year: '1973'
+    country: Argentina
+  - id: leda-valladares-grito-en-el-cielo-vol-2-31-no-soy-de-estos-pagos
+    title: No Soy De Estos Pagos
+    album: Grito En El Cielo - Vol 2
+    artist: Gloria Pascualas Arias
+    year: '1994'
+    country: Argentina
+  - id: leda-valladares-grito-en-el-cielo-vol-2-33-tonada-de-verano
+    title: Tonada de verano
+    album: Grito En El Cielo - Vol 2
+    artist: Bernabe Montellanos
+    year: '1994'
+    country: Argentina
+  - id: sideb-part1
+    title: Chants de mariage
+    album: Dogons
+    artist: Dogon people
+    year: '1956'
+    country: Mali
+  - id: sideb-part2
+    title: Les Flutes du printemps
+    album: Dogons
+    artist: Dogon people
+    year: '1956'
+    country: Mali
+  - id: a2-stick-dance
+    title: Stick-dance
+    album: Music of the Nile Valley
+    artist: Various
+    year: '1981'
+    country: Egipto

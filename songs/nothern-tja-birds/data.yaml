@@ -1,0 +1,195 @@
+id: nothern-tja-birds
+name: nothern tja birds
+loops:
+  - id: 02-five-pieces-for-kanga-brass-jews-harp
+    title: Five Pieces For Kanga Brass Jew's Harp
+    album: 'Sakhalin: Vocal And Instrumental Music'
+    artist: Nivkh Ujl'Ta
+    year: 19¿¿
+    country: Isla de Sajalin
+  - id: 04-troupe-de-kutiyattam-du-kalamandalam-entree-du-sutradhara
+    title: Entree du Sutradhara
+    album: 'ocora: Inde du Sud, Kutiyattam'
+    artist: Troupe de Kutiyattam du Kalamandalam
+    year: '1996'
+    country: Kerala
+  - id: 05-song-about-the-small-aunt-nanai
+    title: Song About the Small Aunt (Nanai)
+    album: Shamanic and Daily Songs of the Amur Basin
+    artist: 'Nina Pavlovna Gejker, chant, tamb'
+    year: '1996'
+    country: Amur
+  - id: 07-troupe-de-kutiyattam-du-kalamandalam-sloka-de-rama
+    title: Sloka de Rama
+    album: 'ocora: Inde du Sud, Kutiyattam'
+    artist: Troupe de Kutiyattam du Kalamandalam
+    year: '1996'
+    country: Kerala
+  - id: 07-frankie
+    title: Frankie
+    album: Anthology of American Folk Music Vol 1B - Ballads
+    artist: Mississippi John Hurt
+    year: '1928'
+    country: Mississippi
+  - id: 09-tja-tja-ckhar-musical-beam
+    title: Tja Tja Ckhar Musical Beam
+    album: 'Sakhalin: Vocal And Instrumental Music'
+    artist: Nivkh Ujl'Ta
+    year: 19¿¿
+    country: Isla de Sajalin
+  - id: 09-time-of-year-ringing
+    title: Время года. Звон
+    album: Колокола Великого Новгорода
+    artist: Алексей Уткин
+    year: '2006'
+    country: Novgorod
+  - id: 1-04-daite
+    title: Daite
+    album: '[ocora] Centrafrique / Musique Gbaya / Chants A Penser'
+    artist: Martin Kayo
+    year: '1977'
+    country: Rep. Centroafricana
+  - id: 10-a-cappella-song
+    title: A Cappella Song
+    album: 'Sakhalin: Vocal And Instrumental Music'
+    artist: Nivkh Ujl'Ta
+    year: 19¿¿
+    country: Isla de Sajalin
+  - id: 10-black-woodpecker-zwarte-specht-dryocopus-martius
+    title: Black Woodpecker
+    album: Listen the birds vol 4
+    artist: Black Woodpecker
+    year: '1970'
+    country: Holanda
+  - id: 11-one-ringing
+    title: Одно. Звон
+    album: Колокола Великого Новгорода
+    artist: Алексей Уткин
+    year: '2006'
+    country: Novgorod
+  - id: 1b-strix-aluco-juv
+    title: Tawny Owl
+    album: Listen the birds vol 4
+    artist: Tawny Owl
+    year: '1970'
+    country: Holanda
+  - id: 2a-littleowl-steenuil-athene-noctua-0-47
+    title: Little Owl
+    album: Listen the birds vol 4
+    artist: Little Owl
+    year: '1970'
+    country: Holanda
+  - id: 2b-littleowl-steenuil-athene-noctua-0-23
+    title: Little Owl
+    album: Listen the birds vol 4
+    artist: Little Owl
+    year: '1970'
+    country: Holanda
+  - id: 3-dwergooruil-scops-owl-otus-scops-1-15
+    title: Scops Owl
+    album: Listen the birds vol 4
+    artist: Scops Owl
+    year: '1970'
+    country: Holanda
+  - id: 31-song-about-a-bird
+    title: Song about a Bird
+    album: 'Australia, Songs of the Aborigines & Music of Papua, NewGuinea'
+    artist: Various
+    year: '1993'
+    country: Papua-Nueva Guinea
+  - id: 33-flute
+    title: Flute
+    album: 'Australia, Songs of the Aborigines & Music of Papua, NewGuinea'
+    artist: Various
+    year: '1993'
+    country: Papua-Nueva Guinea
+  - id: 33-jaakpa-jingle-belt-and-joodopu-rattles
+    title: Jaakpa Jingle Belt And Joodopu Rattles
+    album: 'Sakhalin: Vocal And Instrumental Music'
+    artist: Nivkh Ujl'Ta
+    year: 19¿¿
+    country: Isla de Sajalin
+  - id: 5-kerkuil-alba-blazen
+    title: Barn Owl
+    album: Listen the birds vol 4
+    artist: Barn Owl
+    year: '1970'
+    country: Holanda
+  - id: 6-weyneck-draaihals-jynx-torquila
+    title: Wryneck
+    album: Listen the birds vol 4
+    artist: Wryneck
+    year: '1970'
+    country: Holanda
+  - id: 8-grey-headed-woodpecker-grijskopspecht-picus-canus
+    title: Grey Headed
+    album: Listen the birds vol 4
+    artist: Grey Headed
+    year: '1970'
+    country: Holanda
+  - id: 8-zang-and-cither-03
+    title: Sang Till Stavcittror
+    album: Musik fran tanzania
+    artist: Various
+    year: '1974'
+    country: Tanzania
+  - id: banda-polyphony-05-music-for-ongo-ensemble-music-for-dancing-gboyo
+    title: 'Music for ongo ensemble: Music for dancing, gboyo'
+    album: 'Central African Republic: Banda Polyphony'
+    artist: The Banda people (Linda)
+    year: '1976'
+    country: Rep. Centroafricana
+  - id: kaleluknye-sonbanga-baiyalana-kaleluknye
+    title: 'Kaleluknye, Sonbanga, Baiyalana, Kaleluknye'
+    album: 'Irian Jaya: Disc Two'
+    artist: Various
+    year: '1973'
+    country: Papua-Nueva Guinea
+  - id: chukotskaya-narodnaya-muzyka-26
+    title: Tow tunes with Telytele
+    album: 15246 chukotskaya i eskimosskaya muzyka
+    artist: Александр Тнагыргын
+    year: 19¿¿
+    country: Chukotka
+  - id: iz-yakutskogo-muzykal-nogo-fol-klora-a05
+    title: Naigrыsh the homuse
+    album: Yakut folk music
+    artist: 'Турнин, Лука Николаевич'
+    year: '1969'
+    country: Yakutia
+  - id: northern-lights-07
+    title: Куринька (kurinka)
+    album: Music of the Northern lights
+    artist: Various
+    year: '1964'
+    country: Khanty-Mansi
+  - id: northern-lights-20
+    title: Личная песня Нгучамаку
+    album: Music of the Northern lights
+    artist: Various
+    year: '1964'
+    country: Taymyr Peninsula
+  - id: northern-lights-60
+    title: Песня юродивой (cancion loca)
+    album: Music of the Northern lights
+    artist: Various
+    year: '1964'
+    country: Isla de Sajalin
+  - id: northern-lights-71
+    title: Изгнание болезни (enfermedad del exilio)
+    album: Music of the Northern lights
+    artist: Various
+    year: '1964'
+    country: Kamtchatka
+  - id: kazaki-nekrasovtsy-na-chuzhbine-03
+    title: Tis Not Mist (in a round dance)
+    album: 'The Nekrasov Cossacks. Abroad and in Russia '
+    artist: Nekrasov Cossaks
+    year: '1987'
+    country: Rio Don
+  - id: doohi-et-jimi-rewbe-de-kouye
+    title: Doohi et jimi rewbe de Kouye
+    album: Burkina Faso. La voix des Peuls_S. Loncke
+    artist: Various
+    year: '1997'
+    country: Burkina Faso

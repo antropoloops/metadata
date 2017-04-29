@@ -1,0 +1,125 @@
+id: palabra-sortija
+name: palabra sortija
+loops:
+  - id: 01-etenraku-2
+    title: Etenraku
+    album: Japon. Gagaku
+    artist: Société Ono Gagaku Kaï
+    year: '1979'
+    country: Japon
+  - id: 04-improvisation-dans-le-mode-triste-solo-de-dan-tranh-1
+    title: Improvisation Dans Le Mode Triste-Solo De Dan Tranh
+    album: Vietnam Improvisations-New Traditional
+    artist: Khe/Hai/Ngoc
+    year: '1973'
+    country: Vietnam
+  - id: 04-goin-to-see-my-baby
+    title: Goin' To See My Baby
+    album: Bride of The Holy Ghost
+    artist: The Fatback Band
+    year: '1972'
+    country: Nueva York
+  - id: 07-eil-malei-rachmim
+    title: Eil Malei Rachmim
+    album: >-
+      String Of Pearls: Jewels Of The 78rpm Era 1918-1951 (2009,
+      Mississippi/Canary)
+    artist: Shalom Katz
+    year: '1947'
+    country: Hungria
+  - id: 08-le-plat-pays
+    title: Le Plat Pays
+    album: Olympia 64 (Live) (Cd 9)
+    artist: Jacques Brel
+    year: '1964'
+    country: Paris
+  - id: 1-05-candra-kanta
+    title: Candra Kanta
+    album: 'Bali: Hommage à Wayan Lotring. Disc One'
+    artist: Wayan Lotring
+    year: '1972'
+    country: Bali
+  - id: 10-black-woodpecker-zwarte-specht-dryocopus-martius-2
+    title: Black Woodpecker
+    album: Listen the birds vol 4
+    artist: Black Woodpecker
+    year: '1970'
+    country: Holanda
+  - id: 13-song-words-spoken-by-gamargadada
+    title: Song Words Spoken By Gamargadada
+    album: 'Songs From The Northern Territory: 2'
+    artist: Gamargadada
+    year: '1963'
+    country: Numbulwar
+  - id: 2-23-wayfaring-pilgrim
+    title: Wayfaring Pilgrim
+    album: 'THE OLD, WEIRD AMERICA_seleccion'
+    artist: 'Clarence ''Tom'' Ashley '
+    year: '1961'
+    country: Tennessee
+  - id: 31-chant-sur-la-mer
+    title: Chant sur la mer
+    album: 'Kamtchatka: Tambours de danse de l''extrême-orient Sibérien'
+    artist: Petr Evljkhovic Kotginin
+    year: '1994'
+    country: Kamtchatka
+  - id: 5-12-songs-from-maningrida-and-cape-st
+    title: Songs From Maningrida & Cape Stewart
+    album: 'Songs From The Northern Territory: 5'
+    artist: Various
+    year: '1962'
+    country: Milingimbi
+  - id: 9-java-gamelan-slendro-sekargadung
+    title: 'Kraton Jogiakaria Gamelan Slendro '
+    album: Musik der Orient - 1930 compilatie Dr Erich von  Hornbostel
+    artist: Various
+    year: '1930'
+    country: Indonesia
+  - id: b2-palabra-sortija
+    title: Palabra Sortija
+    album: Bandurras de Canchis
+    artist: Conjunto Santa Barbara de Sicuani
+    year: 19¿¿
+    country: Sicuani
+  - id: cd1-22-argentina-selknam-shaman-s-song
+    title: 'Argentina [Selknam] Shaman''s song'
+    album: Voices of the World - An Anthology of Vocal Expression - Techniques
+    artist: Lola Kiepja
+    year: '1996'
+    country: Isla Grande de Tierra del Fuego
+  - id: leb-tatefaletch-17
+    title: Leb Tatefaletch
+    album: Ethiopiques 9
+    artist: Alèmayèhu Eshète
+    year: '1969'
+    country: Etiopia
+  - id: morning-prayer-in-okbap
+    title: Morning Prayer In Okbap
+    album: 'Irian Jaya: Disc Six'
+    artist: Various
+    year: '1973'
+    country: Papua-Nueva Guinea
+  - id: the-story-of-the-music-box-14-the-gypsy-baron-gallop
+    title: The Gypsy Baron (Gallop)
+    album: The Story of the Music Box
+    artist: Concert
+    year: '1885'
+    country: Austria
+  - id: b12-xii-capricorn
+    title: b12-XII-Capricorn
+    album: Music Im Bauch-Tierkreis
+    artist: Karlheinz Stockhausen
+    year: '1975'
+    country: Alemania
+  - id: northern-lights-46
+    title: Feast on the Amur
+    album: Music of the Northern lights
+    artist: 'Ensemble '
+    year: '1964'
+    country: Khabarovsk Krai
+  - id: u9400
+    title: anonymous recordings of Naga songs
+    album: The Nagas Hill Peoples of Northeast India
+    artist: Various
+    year: 19¿¿
+    country: India-Nagaland

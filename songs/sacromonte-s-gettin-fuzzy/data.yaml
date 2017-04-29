@@ -1,0 +1,123 @@
+id: sacromonte-s-gettin-fuzzy
+name: sacromonte's gettin fuzzy
+loops:
+  - id: 01-disco-connection
+    title: Disco Connection
+    album: 'Cult Cargo: Belize City Boil Up'
+    artist: Lord Rhaburn
+    year: 19¿¿
+    country: Belice
+  - id: 03-laylet-eid-jingle-bells
+    title: Laylet Eid (Jingle Bells)
+    album: Christmas Hymns
+    artist: Fairuz
+    year: '1986'
+    country: Libano
+  - id: 04-siy-emshadweni
+    title: Siy' Emshadweni
+    album: Ingwe idla Ngamabala
+    artist: Izinthombi Zesi Manje Manje
+    year: '1968'
+    country: Sudafrica
+  - id: 05-najmet-eid-les-anges-dans-nos-campagnes
+    title: Najmet Eid (Les Anges Dans Nos Campagnes)
+    album: Christmas Hymns
+    artist: Fairuz
+    year: '1986'
+    country: Libano
+  - id: 06-ensemble-de-vieles-kamayacha
+    title: 'Ensemble De Vièle Kamayacha, Clarinette Murali Et Claquettes Khartal'
+    album: Inde. Rajasthan. Musiciens Professionnels Populaires
+    artist: Various
+    year: '1972'
+    country: India-Rajasthan
+  - id: 08-sugar-loaf-cha-cha
+    title: Sugar Loaf Cha Cha
+    album: Hits from Latin America (Dyna-Disc CH-807)
+    artist: Juan Del Oro and his orchestra
+    year: 19¿¿
+    country: Brasil
+  - id: 09-mali
+    title: Mali
+    album: Huli Highlands. Papua New Guinea
+    artist: VA
+    year: '1974'
+    country: Papua-Nueva Guinea
+  - id: 11-tash-kairak-solo
+    title: Tash Kairak Solo
+    album: 'Music of Central Aisa, Uzbekistan'
+    artist: Yusupov Takhir Rakhmanberdyevich
+    year: '1994'
+    country: Uzbekistan
+  - id: 12-lado-sokacko-kolo
+    title: Sokacko kolo
+    album: Kolo igra  tamburica svira - CD 1
+    artist: LADO
+    year: '1998'
+    country: Serbia
+  - id: 16-well-captain-beefheart-his-magic-band
+    title: Well
+    album: Trout Mask Replica
+    artist: Captain Beefheart & His Magic Band
+    year: '1969'
+    country: California
+  - id: 2-16-he-that-hath-ears-to-hear-let-him-hear-sermon-excerpt
+    title: 'He That Hath Ears to Hear, Let Him Hear (Sermon Excerpt)'
+    album: The Hurricane That Hit Atlanta
+    artist: Rev. Johnny L. Jones
+    year: 19¿¿
+    country: Atlanta
+  - id: 7-siku-kuu-holy-night
+    title: Siku Kuu (Holy Night)
+    album: Missa luba and christmas in congo
+    artist: les troubadours du roi baudoin
+    year: '1958'
+    country: Rep. Dem. del Congo
+  - id: b2-alto-bung-o-horn
+    title: Alto Bung'o Horn
+    album: 'Africa:Witchcraft & Ritual Music'
+    artist: Various
+    year: '1975'
+    country: Kenia
+  - id: b4-chebonsukesanmai-3-04
+    title: ChebonSukeSanMai
+    album: Inde - Nagaland - Chant des tribus Sema & Zeliang
+    artist: va
+    year: '1985'
+    country: India-Nagaland
+  - id: china-shantung-09-hsiao-fang-niu
+    title: Hsiao Fang Niu
+    album: 'China: Shantung Folk Music & Traditional Instrumental Pieces'
+    artist: Lu-sheng Ensemble
+    year: '1972'
+    country: Shandong
+  - id: ragas-du-matin-et-du-soir-side-1-1-annonce
+    title: Annonce
+    album: Ragas du Matin et du Soir
+    artist: Deben Battacharya
+    year: '1976'
+    country: India
+  - id: t652r01-commentary-on-the-recording-location-by-alan-lomax
+    title: Commentary on the recording location by Alan Lomax
+    album: Cultural Equity_Granada I 9/52 Lomax
+    artist: Alan Lomax
+    year: '1952'
+    country: Granada
+  - id: t652r04-bell-ringing
+    title: Bell-ringing
+    album: Cultural Equity_Granada I 9/52 Lomax
+    artist: Campanilleros de Bormujos
+    year: '1952'
+    country: Granada
+  - id: t655r03-la-mosca-ii
+    title: La Mosca
+    album: Cultural Equity_Granada I 9/52 Lomax
+    artist: Zambra La Faraona
+    year: '1952'
+    country: Granada
+  - id: whitehead-red-dutch-coleman-dad-s-getting-fuzzy
+    title: Dad's Getting Fuzzy
+    album: 'Mississippi String Bands, Vol. 1 1928-1935'
+    artist: 'Whitehead, Red & Dutch Coleman'
+    year: '1930'
+    country: Mississippi

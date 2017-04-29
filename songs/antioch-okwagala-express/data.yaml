@@ -1,0 +1,87 @@
+id: antioch-okwagala-express
+name: Antioch Okwagala Express
+loops:
+  - id: 01-chant-de-louanges-sonrai
+    title: Chant de louanges Sonrai
+    album: Rythmes Et Chants Du Niger
+    artist: Charles Duvelle
+    year: '1960'
+    country: Nigeria
+  - id: 02-antioch-277
+    title: Antioch 277
+    album: 'I Belong to This Band: Eight-Five Years of Sacred Harp Recordings'
+    artist: Henagar Union Sacred Harp Convention
+    year: '1940'
+    country: Alabama
+  - id: 10-cabezon-de-la-fuente-dancers-danza-de-ibio
+    title: Danza de Ibio
+    album: Spain
+    artist: Cabezon De La Fuente Dancers
+    year: '1952'
+    country: España
+  - id: 137-black-diamond-express-to-hell-pt-1-27
+    title: black diamond express to hell pt. 1 - 27
+    album: Goodbye Babylon (6) Sermons
+    artist: Rev. A.W. Nix
+    year: '1927'
+    country: Chicago
+  - id: 18-the-honey-harvest
+    title: The Honey Harvest
+    album: On The Edge Of The Ituri Forest
+    artist: mbuti pygmies
+    year: '1952'
+    country: Rep. Dem. del Congo
+  - id: 21-orange-claw-hammer-captain-beefheart-and-his-magic-band-1
+    title: Orange claw hammer
+    album: Trout Mask Replica
+    artist: Captain Beefheart and His Magic Band
+    year: '1969'
+    country: California
+  - id: 3-tell-her-to-come-on-home
+    title: Tell Her To Come
+    album: The Singles (Disc Two 1960-198
+    artist: Little Mack
+    year: '1962'
+    country: Chicago
+  - id: a02-okwagala-omulungi-kwesengareza-ganda
+    title: Okwagala omulungi kwesengareza
+    album: Musical Instruments 1 - Strings
+    artist: Temusewa mukasa
+    year: '1952'
+    country: Uganda
+  - id: a06-gitari-na-congo-zande
+    title: Gitari na congo
+    album: Musical Instruments 1 - Strings
+    artist: Bakia Pierre
+    year: '1952'
+    country: Rep. Dem. del Congo
+  - id: folk-music-of-calabria-06-sonata
+    title: Sonata
+    album: Folk music of Calabria
+    artist: Various
+    year: '1991'
+    country: Italia
+  - id: mistura-no-1
+    title: Mistura No. 1
+    album: Batucada Genial
+    artist: Mester Geraldo e Sua Bateria
+    year: '1977'
+    country: Brasil
+  - id: mistura-no-1-1
+    title: Mistura No. 1
+    album: Batucada Genial
+    artist: Mester Geraldo e Sua Bateria
+    year: '1977'
+    country: Brasil
+  - id: phv2-06-mi-atarraya-my-fishing-net
+    title: Mi Atarraya (My Fishing Net)
+    album: 'Paraguayan Harp, Vol. 2'
+    artist: Ed Lange and His Trio Andeno
+    year: '1977'
+    country: Paraguay
+  - id: vietnam-19-hat-hai-giong
+    title: Hat Hai Giong
+    album: Music of Vietnam
+    artist: Tran Quang Hai and Hoang Mong Thuy
+    year: '1980'
+    country: Vietnam

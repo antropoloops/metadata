@@ -1,0 +1,149 @@
+id: detente-judas
+name: detente judas
+loops:
+  - id: 01-discours
+    title: Discours
+    album: Kanak Songs. Feast And Lullabies
+    artist: Chants De Hienghène
+    year: '1984'
+    country: Nueva Caledonia
+  - id: a4-peace-pipe-song-a-smoke-song
+    title: Peace Pipe Song. A Smoke Song
+    album: Songs of the warm spring indian reservation
+    artist: Various
+    year: '1975'
+    country: Oregon
+  - id: 09-temaeva-iva
+    title: Iva
+    album: South Pacific Drums
+    artist: Temaeva
+    year: '1965'
+    country: Polinesia Francesa
+  - id: 05-te-hia-ai-ora-pae
+    title: Pae
+    album: South Pacific Drums
+    artist: Te Hia'Ai Ora
+    year: '1965'
+    country: Polinesia Francesa
+  - id: 01-etenraku
+    title: Etenraku
+    album: Japon. Gagaku
+    artist: Société Ono Gagaku Kaï
+    year: '1979'
+    country: Japon
+  - id: 02-manuel-agujetas-por-lo-que-yo-voy-mirando-solea
+    title: Por lo que yo voy mirando (solea)
+    album: Cantes Gitanos
+    artist: El Agujetas
+    year: '1972'
+    country: Andalucia
+  - id: 02-nam-phat-khay
+    title: Nam Phat Khay
+    album: Laos. Lam Saravane/Musique Pour Le khène
+    artist: Various
+    year: '1989'
+    country: Laos
+  - id: 02-ramata
+    title: Ramata
+    album: Percussions Afrique No. 1 Chad
+    artist: Barma people in Massenya
+    year: '1966'
+    country: Chad
+  - id: 03-luis-e-martinez-cumbia-sampuesana
+    title: Cumbia sampuesana
+    album: Cumbias Solamente Cumbias
+    artist: Luis E. Martinez
+    year: '1976'
+    country: Colombia
+  - id: 04-ademech-i-hembo-chek-i-dafabera
+    title: Adémèch I hembo - Chèk I dafabera
+    album: 'Camaroon: Flutes of the Mandara Mountains (Ocora 560110)'
+    artist: Various
+    year: '1994'
+    country: Camerun
+  - id: 04-manuel-agujetas-te-vi-en-un-llano-bulerias-por-solea
+    title: Te vi en un llano (bulerias por solea)
+    album: Rutas del Cante Jondo
+    artist: El Agujetas
+    year: '1973'
+    country: Andalucia
+  - id: 07-tawe-kerea
+    title: Tawe Kerea
+    album: Huli Highlands. Papua New Guinea
+    artist: Various
+    year: '1974'
+    country: Papua-Nueva Guinea
+  - id: 08-dah-win-gou
+    title: Dah win gou
+    album: 'Camaroon: Flutes of the Mandara Mountains (Ocora 560110)'
+    artist: Various
+    year: '1994'
+    country: Camerun
+  - id: 08-usiutu-chant-funebre
+    title: Usiutu - Chant Funèbre
+    album: 'Iles Trobriand: Papua New Guinea'
+    artist: Various
+    year: '1974'
+    country: Islas Trobriand
+  - id: 1-manuel-agujetas-detente-judas-saeta
+    title: Saeta
+    album: Detente Judas - Una Limosna SINGLE
+    artist: El Agujetas
+    year: '1976'
+    country: Andalucia
+  - id: 11-stellakis-perpiniadis-the-garyfallia
+    title: Η Γαρυφαλλιά-The GARYFALLIA
+    album: 'Delta Club: canción rebetiko Anthology CD04'
+    artist: PERPINIADIS STELLAKIS
+    year: 19¿¿
+    country: Grecia
+  - id: 2-manuel-agujetas-una-limosna-saeta
+    title: Saeta
+    album: Detente Judas - Una Limosna SINGLE
+    artist: El Agujetas
+    year: '1976'
+    country: Andalucia
+  - id: 7-huakanga
+    title: Huakanga
+    album: Polynesian Traditional Music of Ontong Java - Solomon Islands - LDM 30 109
+    artist: mixed chorus
+    year: '1969'
+    country: Ontong Java Atoll
+  - id: a4-gaita-and-decima-at-atanquez-2
+    title: A4 Gaita and Decima at Atanquez
+    album: >-
+      LP 1 - The Sierra Nevada de Santa Maria / The Yoku Motilon of the Sierra
+      de Perijá
+    artist: Various Artists - Atanquez
+    year: '1960'
+    country: Colombia
+  - id: a5-drum-and-flat-gongs
+    title: Drum & Flat Gongs
+    album: Mnong Gar Music from Vietnam;
+    artist: Mnong Gar Music from Vietnam
+    year: 4/10/1972
+    country: Vietnam
+  - id: a5-omaha-dance
+    title: Omaha Dance
+    album: Music Of Sioux & Navajo
+    artist: Sioux
+    year: 11/1/1979
+    country: Dakota del sur
+  - id: b1-ubwang-tweelingceremonie
+    title: Ubwang Ceremony for twins
+    album: Lunda - Zaire - Tervueren-10
+    artist: Various
+    year: '1984'
+    country: Zaire
+  - id: gunbalanya-bunborg
+    title: Gunbalanya Bunborg
+    album: 'Arnhem Land: Authentic Aboriginal Songs And Dances'
+    artist: Various
+    year: '1957'
+    country: Arnhem Land
+  - id: northern-lights-76
+    title: Наигрыш (76)
+    album: Music of the Northern lights
+    artist: ''
+    year: '1964'
+    country: Kamtchatka

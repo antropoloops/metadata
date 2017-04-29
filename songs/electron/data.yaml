@@ -1,0 +1,151 @@
+id: electron
+name: electron
+loops:
+  - id: 1-a01-01-gamelan-sekati-kangdjeng-kyahi-naga-wilags
+    title: '1-A01-[01] Gamelan Sekati Kangdjeng Kyahi Naga Wilags'
+    album: >-
+      [Archiv 2565028_9] Java Gamelans from the sultans palace in Jogjakarta 2LP
+      - P.1973
+    artist: Musicians of the Sultans Palace in Jogjakarta
+    year: '1973'
+    country: Indonesia
+  - id: 19-jew-s-harp-solo-kairat-baibosynov
+    title: Jew's Harp Solo
+    album: Dombra Music of Kazakhstan
+    artist: Aitzhan Toktaganov
+    year: '1995'
+    country: Kazajstan
+  - id: 2-snail-shell-flute-1-20
+    title: 2-snail_shell_flute
+    album: >-
+      Music of the Tukano and Cuna Peoples of Colombia - rec 1960-1961Pogue Rec
+      1987
+    artist: cuna people
+    year: '1960'
+    country: Colombia
+  - id: 4-danslied-boog-2-53
+    title: Danslied-boog
+    album: SAMO- muziek uit boven volta
+    artist: VA
+    year: '1971'
+    country: Burkina Faso
+  - id: a1-chansons-enfantines-ba-bembe
+    title: A1 Chansons enfantines Ba-Bembe
+    album: OCR 35 Musique Kongo
+    artist: three young boys
+    year: '1966'
+    country: Rep. del Congo
+  - id: a2-ibita-et-percussion-region-ngounie
+    title: 'A2 Ibita et Percussion, Region Ngounie'
+    album: AR33487 le gabon eternel
+    artist: Various
+    year: '1976'
+    country: Gabon
+  - id: a4-tarantellina-enna-province-0-32
+    title: A4 Tarantellina (Enna province) 0'32
+    album: '[Argo DA 89] Sicily in Music and Song - P.1965'
+    artist: unknown
+    year: '1965'
+    country: Sicilia
+  - id: b1-berceuse-igihoso-3-00
+    title: B1 Berceuse igihoso 3'00
+    album: '[Alpha 5024] Rwanda 2 - Musique Vocale - P.1977'
+    artist: unknown
+    year: '1977'
+    country: Ruanda
+  - id: b1d-aerophones-ihembe-1-58
+    title: B1d Aerophones - ihembe 1'58
+    album: '[Alpha 5023] Rwanda 1 - Musique Instrumentale - P.1977'
+    artist: unknown
+    year: '1977'
+    country: Ruanda
+  - id: cd1-17-morocco-high-atlas-berbers-koranic-recitation-tahzzabt
+    title: 'Morocco, High Atlas [Berbers] Koranic recitation, tahzzabt'
+    album: Voices of the World - An Anthology of Vocal Expression - Techniques
+    artist: Various
+    year: 19¿¿
+    country: Marruecos
+  - id: cd1-23-spain-balearic-islands-a-redoblado-song
+    title: 'Spain, Balearic Islands A redoblado song'
+    album: Voices of the World - An Anthology of Vocal Expression - Techniques
+    artist: Various
+    year: 19¿¿
+    country: Islas Baleares
+  - id: cnrsmh-e-2000-008-001-001-10
+    title: 'Carême : Loternas'
+    album: Bolivie - musique des Calcha
+    artist: 'Three Women]'
+    year: '1996'
+    country: Bolivia
+  - id: cnrsmh-i-1982-018-021-06
+    title: AUTRE CHANSON
+    album: 'BURKINA FASO. LE MOAL,G.;1952-81'
+    artist: ZARA DIT BOBO DIOULA
+    year: '1952'
+    country: Burkina Faso
+  - id: davids-harp-ethiopia
+    title: Ethiopia Davids Harp
+    album: archive.org ethiopia traditional
+    artist: unknown
+    year: 19¿¿
+    country: Etiopia
+  - id: la-vieja-chacarera
+    title: La vieja chacarera
+    album: 'Sortilegio, vol. 1'
+    artist: Facio Santillán
+    year: '1969'
+    country: Argentina
+  - id: sasoto-02-introduction-to-songs-japan
+    title: 'Introduction to Songs: Japan'
+    album: Songs and Sounds of the Orient
+    artist: unknown
+    year: '1966'
+    country: Japon
+  - id: vietnam-05-doc-tau-muong
+    title: Doc Tau Muong
+    album: Music of Vietnam
+    artist: Tran Quang Hai and Hoang Mong Thuy
+    year: '1980'
+    country: Vietnam
+  - id: vietnam-07-doc-tau-dan-doc-huyen
+    title: Doc Tau Dan Doc Huyen
+    album: Music of Vietnam
+    artist: Tran Quang Hai and Hoang Mong Thuy
+    year: '1980'
+    country: Vietnam
+  - id: vietnam-11-ru-con
+    title: Ru Con
+    album: Music of Vietnam
+    artist: Tran Quang Hai and Hoang Mong Thuy
+    year: '1980'
+    country: Vietnam
+  - id: vietnam-12-co-la
+    title: Co La
+    album: Music of Vietnam
+    artist: Tran Quang Hai and Hoang Mong Thuy
+    year: '1980'
+    country: Vietnam
+  - id: folk-music-of-venezuela-02-trompa-goajira
+    title: trompa goajira
+    album: folk music of venezuela
+    artist: H. Gonzalez Palmar
+    year: '1940'
+    country: Caracas
+  - id: sever-i-sibir-a18
+    title: sever i sibir' a18
+    album: Russian folk music of the north and siberia
+    artist: unknown
+    year: '1991'
+    country: Siberia
+  - id: cnrsmh-i-2013-017-001-09
+    title: Los leones marinos gritan al atardecer en el puerto de Iquique
+    album: 'Ambiances sonores et enregistrements de terrain, sélection'
+    artist: leones marinos
+    year: '2012'
+    country: Iquique
+  - id: 28-baguala-de-la-penha
+    title: 28 Baguala de la Peña
+    album: Grito en el Cielo - Vol 1
+    artist: Leda Valladares
+    year: '1994'
+    country: Argentina

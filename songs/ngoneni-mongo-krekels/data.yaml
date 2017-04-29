@@ -1,0 +1,159 @@
+id: ngoneni-mongo-krekels
+name: Ngoneni Mongo Krekels
+loops:
+  - id: 02-unknown-chemirocha-jimmy-rogers
+    title: chemirocha
+    album: 'Before Benga Vol.1: Kenya Dry'
+    artist: VA
+    year: '1988'
+    country: Kenia
+  - id: 03-ada
+    title: '`Âda'
+    album: 'Al-Maghrib & Gnâwa Music, Marrakesh, Morocco'
+    artist: VA
+    year: '1998'
+    country: Marruecos
+  - id: 04-amo-goda-bodjo
+    title: Bodjo
+    album: Anthologie de la Musique du Niger
+    artist: Various
+    year: '1963'
+    country: Nigeria
+  - id: 05-sipit-umagazini
+    title: Sipit ‘Umagazini
+    album: 'Maskanda Roots Vol.1: 1927-1952'
+    artist: MAMEYEGUDI AND HIS DANCERS
+    year: '1932'
+    country: Sudafrica
+  - id: 08-chembania
+    title: Chembania
+    album: 'Cameroon:  Musiques du Cameroon - Bakweri/Bamileke/Bamoun/Beti'
+    artist: Christina N'gantchan Group (Bamileke-Bafoussam)
+    year: '1965'
+    country: Camerun
+  - id: 09-ollin-aragiid
+    title: Ollin Aragiid
+    album: Musik der Nubier
+    artist: Musik der Nubier
+    year: '1980'
+    country: Sudan
+  - id: 1-krekels-zang-percussie-8-41
+    title: krekels zang percussie
+    album: Various – Music of the Ba-Benjellé Bayaka
+    artist: VA
+    year: '1985'
+    country: Rep. Centroafricana
+  - id: 1-05-invocation
+    title: Invocation
+    album: 'Aissaoua Sufi Ceremony, Marrakesh, Morocco'
+    artist: VA
+    year: '1998'
+    country: Marruecos
+  - id: 1-25-air-de-kel-ajjer-rhythme-ellehelleh-touareg-mali
+    title: Air de Kel Ajjer (Rhythme Ellehelleh) (Touareg; Mali)
+    album: 'Opika Pende: Africa at 78 rpm'
+    artist: Tuareg women of Adrar des Iforas
+    year: '2011'
+    country: Mali
+  - id: 1-nindo
+    title: Nindo
+    album: Musik fran tanzania
+    artist: VA
+    year: '1974'
+    country: Tanzania
+  - id: 10-sam-i-bayati-al-aryan
+    title: Sam'i Bayati (Al-Aryan)
+    album: 'Al-Qahirah - Classical Music of Cairo, Egypt'
+    artist: VA
+    year: '1998'
+    country: Egipto
+  - id: 11-louguere
+    title: Louguéré
+    album: 'Camaroon: Flutes of the Mandara Mountains (Ocora 560110)'
+    artist: VA
+    year: '1996'
+    country: Camerun
+  - id: 12-tambours-royaux-ingoma
+    title: 'Tambours royaux '
+    album: '[ocora] Burundi: Musiques Traditionnelles'
+    artist: VA
+    year: '1967'
+    country: Burundi
+  - id: 14-kalebastrom-1-54
+    title: Ritmes Op De Kalebastrom
+    album: SAMO- muziek uit boven volta
+    artist: VA
+    year: '1971'
+    country: Burkina Faso
+  - id: 15-bowed-harp-uganda
+    title: Bowed Harp
+    album: Spirit of African Sanctus
+    artist: VA
+    year: '1969'
+    country: Uganda
+  - id: 2-10-okafu-nyi
+    title: Okafu Nyi
+    album: 'Opika Pende: Africa at 78 rpm'
+    artist: Kamkam
+    year: '2011'
+    country: Ghana
+  - id: 2-wakuvina-uwuvina-wengoma-trommeldans
+    title: Wakuvina Uwuvina Wengoma (Kvinornas Trumdans)
+    album: Musik fran tanzania
+    artist: VA
+    year: '1974'
+    country: Tanzania
+  - id: 26-shergangallo
+    title: Shergangallo
+    album: Musik der Nubier
+    artist: Musik der Nubier
+    year: '1980'
+    country: Sudan
+  - id: a2-ubayd-salim-song
+    title: Ubayd Salim-song
+    album: The Afro-Arabian Crossroad
+    artist: Music Of The Tihama On The Red Sea
+    year: '1982'
+    country: Yemen
+  - id: a5-chant-ekonda-avec-accompagnement-de-chitare-sur-baton
+    title: Chant Ekonda avec accompagnement de chitare sur bâton
+    album: '[OCR 53] Polyphonies Mongo'
+    artist: VA
+    year: '1970'
+    country: Rep. Dem. del Congo
+  - id: a6-danse-esoya-1-25
+    title: Danse esoya
+    album: '[OCR 53] Polyphonies Mongo'
+    artist: VA
+    year: '1970'
+    country: Rep. Dem. del Congo
+  - id: b1-akontaiba-1-36
+    title: Akontaiba
+    album: '[KMA 10] Hugh Tracy • The Music of Africa Series - Uganda 1 - P.1972'
+    artist: Milobo maswa
+    year: '1972'
+    country: Uganda
+  - id: b10-ngoneni-ngoneni-bakithi-swazi
+    title: Ngoneni ngoneni bakithi
+    album: '[KMA 1] Musical Instruments 1 - Strings'
+    artist: Rosalina Ndhlole y Juana Nkosi
+    year: '1972'
+    country: Swazilandia
+  - id: dan-masks-07-wepoekoegee-mask-that-makes-comedy
+    title: 'Wepoekoegee '
+    album: 'Ivory Coast: Dan Masks'
+    artist: The Dan people
+    year: '1965'
+    country: Costa de Marfil
+  - id: mitsogho-gabon-1
+    title: Mitsogho Gabon
+    album: archive.org gabon traditional
+    artist: trad 2
+    year: '1984'
+    country: Gabon
+  - id: mongo-bosaka-demrep-congo
+    title: Flûte globulaire Lofolongo
+    album: Petites musiques du Zaïre (18 Easy Pieces of Intimate Zaïre Music)
+    artist: Ethnie Mongo-bosaka
+    year: '1995'
+    country: Rep. Dem. del Congo

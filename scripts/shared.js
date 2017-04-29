@@ -1,3 +1,4 @@
+const yaml = require("js-yaml");
 const shell = require("shelljs");
 const toSlug = require("to-slug-case");
 const join = require("path").join;
@@ -19,6 +20,7 @@ const songNames = Object.keys(songs);
 const data = { songNames, songs, fields };
 
 module.exports = {
+  yaml,
   data,
   shell,
   toSlug,

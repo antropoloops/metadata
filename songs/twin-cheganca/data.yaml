@@ -1,0 +1,129 @@
+id: twin-cheganca
+name: Twin Cheganca
+loops:
+  - id: 02-cocaine
+    title: Cocaine
+    album: True Story of Abner Jay
+    artist: Abner Jay
+    year: 19¿¿
+    country: Nueva Orleans
+  - id: 02-trutuk-kau-ngorong
+    title: Trutuk Kau Ngorong
+    album: The Muisc of Lombok
+    artist: VA
+    year: '1995'
+    country: Indonesia
+  - id: 02-baglama-solo
+    title: Baglama Solo
+    album: Turkish Folk Songs and Instrumental music
+    artist: VA
+    year: '1988'
+    country: Turquia
+  - id: 05-cheganca
+    title: cheganca
+    album: Sertão e Favelas
+    artist: Zelia Barbosa
+    year: '1968'
+    country: Brasil
+  - id: 07-banda-bajera-de-san-pelayo-descarga-en-cumbia
+    title: Descarga en Cumbia
+    album: 'va -- Try Dance To This [Tristes Humanistes]'
+    artist: Banda Bajera de San Pelayo
+    year: 19¿¿
+    country: Colombia
+  - id: 07-swan-no-233
+    title: DABKA DANCE
+    album: va - Fast Spinning Wax
+    artist: Semi Sheheen and his Utica Orchestra
+    year: '1947'
+    country: Nueva York
+  - id: 07-tree-house
+    title: Tree House
+    album: World of Echo
+    artist: Arthur Russell
+    year: '1986'
+    country: Nueva York
+  - id: 07-ga-mashiebii-wuobi-akroma
+    title: Wuobi (Akroma)
+    album: 'va - Bei Mir Bist Du Schön [Tristes Humanistes]'
+    artist: Gaamashiebii Cultural Troupe
+    year: '1970'
+    country: Ghana
+  - id: 08-beinbaung-hsaing-waing-ensemble
+    title: Beinbaung - Hsaing Waing Ensem
+    album: Music of Myanmar
+    artist: VA
+    year: '1994'
+    country: Birmania
+  - id: 1-01-surah-al-haaqqa-pt-1-arabic-egypt
+    title: 'Surah Al-Haaqqa, Pt. 1 (Arabic; Egypt)'
+    album: 'Opika Pende: Africa at 78 rpm'
+    artist: Cheikh Amin Hasanayn
+    year: 19¿¿
+    country: Egipto
+  - id: 13-washington-phillips-lift-him-up-that-s-all
+    title: Lift Him Up That's All
+    album: 'Garuna (Spring) [Tristes Humanistes]'
+    artist: Washington Phillips
+    year: '1927'
+    country: Texas
+  - id: 13-dasan-agung-rebana-desa-nyelot
+    title: Dasan Agung
+    album: The Muisc of Lombok
+    artist: Rebana Desa Nyel
+    year: '1995'
+    country: Indonesia
+  - id: 14-herbert-misango-msichana-auma
+    title: msichana auma
+    album: 'Before Benga Vol.1: Kenya Dry'
+    artist: Various Artists
+    year: '1988'
+    country: Kenia
+  - id: 16-groupes-de-tambours-royaux-avec-appels-de-trompes
+    title: Groupes de tambours royaux avec appels de trompes
+    album: 'Burundi: Musiques Traditionnelles'
+    artist: Various Artists
+    year: '1967'
+    country: Burundi
+  - id: 19-elder-id-beck-testimony
+    title: Testimony
+    album: Voices from the American South
+    artist: Elder ID Beck
+    year: '1959'
+    country: Kentucky
+  - id: 2-if-i-had-my-way
+    title: If I Had My Way
+    album: 'There is no eye: recordings of musicians photographed by john cohen'
+    artist: reverend gary davis
+    year: '1954'
+    country: Nueva York
+  - id: 21-o-fthisikos-1936
+    title: O Fthisikos (1936)
+    album: 'Rembetika: Songs Of The Greek Underground 1925-1947 Disc 2'
+    artist: Kostas Roukounas
+    year: 19¿¿
+    country: Grecia
+  - id: 3-piri-sinawi
+    title: Piri-Sinawi
+    album: Sinawi Music of Korea
+    artist: VA
+    year: '1994'
+    country: Corea del Sur
+  - id: 39-ekaterina-ivanova-tymkil-let-us-dance-and-sing-a-little
+    title: Let Us Dance And Sing A Little
+    album: 'Siberia: Songs Of Nature And Animals'
+    artist: Ekaterina Ivanova Tymkil
+    year: '1994'
+    country: Kolyma
+  - id: twin-sisters
+    title: Twin Sisters
+    album: 'There is no eye: recordings of musicians photographed by john cohen'
+    artist: Sidna Myers
+    year: '1965'
+    country: Virginia
+  - id: b3-mohammed-hamood-al-awami-wahed-mazawag
+    title: Wahed Mazawag
+    album: 'Qat, Coffee & Qambus'
+    artist: Mohammed Hamood Al-Awami
+    year: 19¿¿
+    country: Yemen

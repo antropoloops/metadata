@@ -1,0 +1,112 @@
+id: yesu-wane-entrance
+name: Yesu Wane Entrance
+loops:
+  - id: 01-teals-descending-on-the-level-sand
+    title: Teals Descending on the Level Sand
+    album: Lost Sounds of the Tao
+    artist: Lo Ka Ping
+    year: '1970'
+    country: Hong Kong
+  - id: 01-shunkan
+    title: Shunkan
+    album: 'Biwa, The World of Tsuruta Kin'
+    artist: Mochizuki/Ako/Tsuruta Kinshi
+    year: '1995'
+    country: Japon
+  - id: 02-amale-sodhlin-kha-i-chora-bhanlin
+    title: Amale Sodhlin Kha I Chora Bhan
+    album: Folk Music Of Nepal
+    artist: VA
+    year: '1994'
+    country: Nepal
+  - id: 02-entrance-of-rama-and-sitha-rama-chases-the-golden-deer
+    title: Entrance of Rama and Sitha
+    album: Kecak and Sanghyang of Bali
+    artist: VA
+    year: '1992'
+    country: Bali
+  - id: 05-t-m-sounderarajan-mannanalum-thiruchenduril
+    title: Mannanalum Thiruchenduril
+    album: 'I Left Her Standing There [Tristes Humanistes]'
+    artist: T.M. Sounderarajan
+    year: 19¿¿
+    country: India-Tamil
+  - id: 05-mood-indigo
+    title: Mood Indigo
+    album: 'Vol. I: Evening In The Islands'
+    artist: Essential Resophonics
+    year: '2003'
+    country: Hawai
+  - id: 05-seance-in-the-sixth-fret
+    title: Seance In The Sixth Fret
+    album: Exuma
+    artist: Exuma
+    year: '1970'
+    country: Bahamas
+  - id: 05-edward
+    title: Edward
+    album: American Folk & Gambling Songs
+    artist: John Jacob Niles
+    year: '1956'
+    country: Kentucky
+  - id: 06-yesu-ka-mkwebaze
+    title: Yesu Ka Mkwebaze
+    album: Lipa Kodi Ya City Council
+    artist: Noviciat De Soeurs Missionaires
+    year: '1967'
+    country: Rep. Centroafricana
+  - id: 07-wane-tela-jila-thau-kalaya-tha-che
+    title: Wane Tela Jila Thau Kalaya Tha
+    album: Folk Music Of Nepal
+    artist: VA
+    year: '1994'
+    country: Nepal
+  - id: 08-alpufzug-1
+    title: Alpufzug
+    album: 'Brass Pins And Match Heads: International 78s'
+    artist: Jodlerklub Thun
+    year: 19¿¿
+    country: Suiza
+  - id: 09-claude-vinh-san-et-le-jazz-tropical-maloya
+    title: Maloya
+    album: End Of The World Party
+    artist: Claude Vinh San et le Jazz Tropical
+    year: '1970'
+    country: Reunion
+  - id: 09-akazehe-par-une-jeune-fille
+    title: Akazehe par une jeune fille
+    album: '[ocora] Burundi: Musiques Traditionnelles'
+    artist: Various Artists
+    year: '1967'
+    country: Burundi
+  - id: 10-stroudwater-psalm-46-vv-1-2
+    title: Stroudwater - Psalm 46 vv. 1 & 2
+    album: Eileen Aroon c120
+    artist: Donald MacLeod & Congregation
+    year: '1975'
+    country: Escocia
+  - id: a2-partido-alto
+    title: Partido Alto
+    album: Batucada No. 3 The Exciting Rhythm of the Wild Brazilian Carnival
+    artist: Escola de Samba da Cidade
+    year: 19¿¿
+    country: Brasil
+  - id: b1-raga-multani-alap-dhamar-in-dhamar-tal-27-30
+    title: Raga Multani Alap
+    album: musiques de l´asie traditionelle vol 9. Inde du nord
+    artist: Dhrupad et dhamar
+    year: '1977'
+    country: India-Nueva Dehli
+  - id: cd3-03-papua-new-guinea-kaluli-aheyalo-song
+    title: 'Papua New Guinea [Kaluli] Aheyalo song'
+    album: Voices of the World - An Anthology of Vocal Expression - Polyphonics
+    artist: Various
+    year: 19¿¿
+    country: Papua-Nueva Guinea
+  - id: >-
+      t695r06-interview-with-juan-pastor-campo-barquillas-about-pernales-el-bandolero
+    title: Interview with Juan (Pastor) Campo Barquillas about Pernales el bandolero
+    album: Cáceres II 10/52
+    artist: 'Barquillas, Juan (Pastor) Campo'
+    year: '1952'
+    country: España

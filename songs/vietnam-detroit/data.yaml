@@ -1,0 +1,117 @@
+id: vietnam-detroit
+name: vietnam-detroit
+loops:
+  - id: 02-danza-mora
+    title: Danza Mora
+    album: Mata la Pena
+    artist: Canajas
+    year: '2009'
+    country: España
+  - id: 08-cumbia-en-la-india
+    title: Cumbia en la India
+    album: A Orillas del Magdalena
+    artist: Andres Landero y Su Conjunto
+    year: '2009'
+    country: Colombia
+  - id: 18-our-prayer
+    title: Our Prayer
+    album: VA - Just A Closer Walk With Thee
+    artist: Albert Ayler
+    year: '1967'
+    country: Nueva York
+  - id: 33pix-108-07-sunrise
+    title: Sunrise
+    album: v/a - pleng thai wong kromsinlapakon
+    artist: Phipat Band and Pravej Kumut
+    year: 19¿¿
+    country: Tailandia
+  - id: accent-on-steam-v1-14-czechoslovakian-2-10-0-class-556
+    title: 'Czechoslovakian 2-10-0, Class 556'
+    album: Accent on Steam Volume One
+    artist: Arkay Enterprises
+    year: '1978'
+    country: Rep. Checa
+  - id: btcg-04-ketjak-or-monkey-dance-excerpts
+    title: Ketjak
+    album: Bali - The Celebrated Gamelans
+    artist: Various
+    year: '1972'
+    country: Bali
+  - id: cmoj-07-hontechoshi
+    title: Hontechoshi
+    album: v/a - Classical Music of Japan
+    artist: Meianji priests
+    year: '1965'
+    country: Japon
+  - id: ctr219-02-fon-man-fon-lep
+    title: fon man (fon lep)
+    album: chui chai phram
+    artist: piphat khana phathoykoson
+    year: 19¿¿
+    country: Tailandia
+  - id: dan-masks-01-geego-male-mask
+    title: 'Geego '
+    album: 'Ivory Coast: Dan Masks'
+    artist: The Dan people
+    year: '1965'
+    country: Costa de Marfil
+  - id: ecotmoc-07-water-lily
+    title: Water Lily
+    album: v/a - Eleven Centuries of Traditonal Music of China
+    artist: Yang Sze-chak
+    year: '1988'
+    country: China
+  - id: jali-kunda-09-jula-jekereh
+    title: Jula Jekereh
+    album: 'Jali Kunda: Griots of West Africa & Beyond'
+    artist: Foday Musa Suso
+    year: '1996'
+    country: Gambia
+  - id: japan-revisted-05-kappore
+    title: Kappore
+    album: Japan Revisited
+    artist: Mamoru Miyagi and the Graduates of Tokyo's University of Arts
+    year: 19¿¿
+    country: Japon
+  - id: japanese-koto-classics-03-midare
+    title: Midare
+    album: Japanese Koto Classics
+    artist: Shinichi Yuize
+    year: '1966'
+    country: Japon
+  - id: mitwoihvl-03-houri
+    title: Houri
+    album: 'v/a - Music in the World of Islam: The Human Voice/Lutes'
+    artist: Habibola Halika
+    year: '1975'
+    country: Iran
+  - id: phv2-07-el-tren-the-train
+    title: El Tren (The Train)
+    album: 'Paraguayan Harp, Vol. 2'
+    artist: Ed Lange and His Trio Andeno
+    year: '1977'
+    country: Paraguay
+  - id: vietnam-10-dan-moi-sat
+    title: Dan Moi Sat
+    album: Music of Vietnam
+    artist: Tran Quang Hai and Hoang Mong Thuy
+    year: '1980'
+    country: Vietnam
+  - id: a2-willard-artis-blind-pete-burrell-do-remember-me
+    title: do remember me
+    album: VA - Sorrow Come Pass Me Around
+    artist: willard artis 'blind pete' burrell
+    year: '1969'
+    country: Luisiana
+  - id: a5-ibo-lele-ibo
+    title: a5-Ibo Lele (ibo)
+    album: Voices Of Haiti
+    artist: Unknown Haitian ceremony participants
+    year: '1953'
+    country: Haiti
+  - id: b4-po-drapeaux-petro-mazonnei
+    title: b4-Po' Drapeaux (petro mazonnei)
+    album: Voices Of Haiti
+    artist: Unknown Haitian ceremony participants
+    year: '1953'
+    country: Haiti

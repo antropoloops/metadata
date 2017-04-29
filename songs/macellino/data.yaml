@@ -1,0 +1,127 @@
+id: macellino
+name: Macellino
+loops:
+  - id: 01-piece-for-plung-orchestra
+    title: Piece for Plung Orchestra
+    album: 'Bangladesh: Ritual Mouth-Organs Of The Murung'
+    artist: Chimbuck Murung
+    year: '1997'
+    country: Bangladesh
+  - id: 04-waya-logo-wayah-onnon
+    title: Waya-logo Wayah Onnon
+    album: Musik der Nubier
+    artist: Hussein Mohammed Ahmed Wagiya Allah
+    year: '1980'
+    country: Sudan
+  - id: 10-mana-bala-dance-for-festivities
+    title: Mana Bala (Dance For Festivities)
+    album: 'Guinée. Musique Des Kpelle. Chants Polyphoniques, Trompes Et Percussions  '
+    artist: >-
+      Antoine Sagno, Cécé Kolié, Foromo Gbamou, Foromo Onikouyanou, Germain
+      Doparogui, Guo-Guo Camara, Kokoli Haba, Mariba Lamassigui & Siba Fassou
+    year: '1998'
+    country: Guinea
+  - id: 11-v-palaniyandi-vendinen
+    title: Vendinen
+    album: 'va - Abandon [Tristes Humanistes]'
+    artist: V. Palaniyandi
+    year: 19¿¿
+    country: India
+  - id: 19-macellino-where-were-you-30-11
+    title: Macellino-where were you
+    album: Uganda - Nanga special
+    artist: Various
+    year: 19¿¿
+    country: Uganda
+  - id: 26-campanilleros-de-bormujo-los-pastores-de-bormujo
+    title: Los pastores de Bormujo
+    album: 'Alan Lomax - World.Library.of.Folk-.España '
+    artist: Campanilleros De Bormujo
+    year: '1952'
+    country: España
+  - id: 6-chant-of-the-jungle
+    title: Chant In The Jungle
+    album: Polynesian percussion
+    artist: George Cates
+    year: '1961'
+    country: Hollywood
+  - id: 9-kyaramilo-dans-01
+    title: Nindo A) Början
+    album: Musik fran tanzania
+    artist: Various
+    year: '1974'
+    country: Tanzania
+  - id: a14b-chichasong-dames
+    title: Women's Chicha Song
+    album: The Music Of Primitive Man
+    artist: 'Motilon Indians, South America'
+    year: '1973'
+    country: Colombia
+  - id: a4-gaita-and-decima-at-atanquez
+    title: A4 Gaita and Decima at Atanquez
+    album: The Music of Some Indian Tribes of Colombia LP1
+    artist: Various Artists - Atanquez
+    year: '1960'
+    country: Colombia
+  - id: b18-dusun-nose-flute-solo-1-01
+    title: DUSUN_NOSE_FLUTE-SOLO
+    album: The Music Of Primitive Man
+    artist: Various
+    year: 19¿¿
+    country: Borneo
+  - id: b2-zande
+    title: Zande
+    album: Musique Centrafricaine - Ocr12
+    artist: Various
+    year: '1962'
+    country: Rep. Centroafricana
+  - id: b6-fetedesmorts
+    title: Feast of the dead
+    album: Musique Indienne Bresil -LDM30112
+    artist: Caingang Indians from Chapeco
+    year: '1955'
+    country: Chapeco
+  - id: cd1-24-romania-wallachia-ballad-cintece-batrinesti
+    title: 'Romania, Wallachia Ballad, cintece batrinesti'
+    album: Voices of the World - An Anthology of Vocal Expression - Techniques
+    artist: Various
+    year: '1996'
+    country: Rumania
+  - id: cd2-10-gabon-mitsogho-voice-of-a-genie-ya-mwei
+    title: 'Gabon [Mitsogho] Voice of a genie, Ya Mweï'
+    album: >-
+      Voices of the World - An Anthology of Vocal Expression - Techniques
+      (suite)
+    artist: Various
+    year: '1996'
+    country: Gabon
+  - id: hafizburhan-03-sevdamainan
+    title: SevdamaIna
+    album: Hafiz Burhan
+    artist: Hafiz Burhan
+    year: '1940'
+    country: Turquia
+  - id: b05-ve
+    title: Ve (Glamor Of The Victor)
+    album: Drums Of Bora Bora and Songs Of Tahiti
+    artist: Bora Bora Drummers
+    year: '1956'
+    country: Polinesia Francesa
+  - id: kyys-debiliie-b2
+    title: Song of the evil girls (from the olonkho Yuryung Uolan)
+    album: 'Volumen 4. Yakut epopeya heroica '
+    artist: Устин Нохсоров
+    year: '1993'
+    country: Yakutia
+  - id: lahemaa-a4
+    title: Sõnumisaatmine lindudega
+    album: Lahemaa laule
+    artist: Miina Lambot
+    year: '1938'
+    country: Estonia
+  - id: muzykal-nyi-fol-klor-grekov-priazov-ya-1
+    title: 01 Хайтарма (1)
+    album: Musical folklore of the azov greeks
+    artist: Various
+    year: '1985'
+    country: Azov

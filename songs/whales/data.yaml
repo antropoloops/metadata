@@ -1,0 +1,111 @@
+id: whales
+name: Whales
+loops:
+  - id: 01-lo-primero-conjunto-miramar-carruseles
+    title: Carruseles
+    album: Carruseles
+    artist: Lo Primero Conjunto Miramar
+    year: '1968'
+    country: Colombia
+  - id: 01-los-exagerados-panama-esta-bueno-y-ma
+    title: Panama esta bueno y... ma
+    album: 'Panama! Latin, Calypso & Funk on the Isthmus 1965-75'
+    artist: Los Exagerados
+    year: '1965'
+    country: Panama
+  - id: 01-gomikail-bak-borai
+    title: 'Gomkail. Bak, Borai'
+    album: Sacred Flute Music From New Guinea. Vol 2
+    artist: Various
+    year: '1976'
+    country: Papua-Nueva Guinea
+  - id: 042-poemes-phonetiques-1
+    title: Poèmes phonétiques
+    album: Dada et la musique
+    artist: Raoul Hausmann
+    year: '1918'
+    country: Alemania
+  - id: 06-nasori
+    title: Nasori
+    album: Japon. Gagaku
+    artist: Société Ono Gagaku Kaï
+    year: '1979'
+    country: Japon
+  - id: 08-hoai-xuan
+    title: Hoài Xuân
+    album: Viêtnam. Poésies Et Chants
+    artist: Various
+    year: '1994'
+    country: Vietnam
+  - id: 1-musiquesamredescardamomes-3-11
+    title: Musique Samre Des Cardamomes
+    album: 'Cambodge - Musique Samre des Cardamomes '
+    artist: Various
+    year: '1969'
+    country: Camboya
+  - id: 10-kawa
+    title: Kawa
+    album: Huli Highlands. Papua New Guinea
+    artist: Various
+    year: '1974'
+    country: Papua-Nueva Guinea
+  - id: 11-biga-lai-sahar-i-cannot-sleep
+    title: Biga Lai Sahar (
+    album: 'Sudan : The Music and Songs of Abdel Karim el Kably'
+    artist: Abdel Karim el Kably
+    year: '1963'
+    country: Sudan
+  - id: 15-hand-games
+    title: Hand Games
+    album: 'Sakhalin: Vocal And Instrumental Music'
+    artist: Nivkh Ujl'Ta
+    year: 19¿¿
+    country: Isla de Sajalin
+  - id: 17-voice-modifier-kalni
+    title: Voice Modifier Kal'ni
+    album: 'Sakhalin: Vocal And Instrumental Music'
+    artist: Nivkh Ujl'Ta
+    year: 19¿¿
+    country: Isla de Sajalin
+  - id: 2-marching-to-utah
+    title: Marching to Utah
+    album: 'Folk Music in America, Vol. 6 - Songs of Migration & Immigration'
+    artist: Rose Thompson
+    year: '1947'
+    country: Utah
+  - id: 28-anna-dimitrievna-neostroeva-tundra-birds-2
+    title: 'Tundra Birds, 2'
+    album: 'Siberia: Songs Of Nature And Animals'
+    artist: Anna Dimitrievna Neostroeva
+    year: 19¿¿
+    country: Siberia
+  - id: 31-jodler-mittelsteiermark
+    title: Jodler
+    album: 'Austria: A Mosaic of Music'
+    artist: Various
+    year: '2001'
+    country: Austria
+  - id: b3-redbackedbuzzard
+    title: 03 B3-RedBackedBuzzard
+    album: South Atlantic Islands - A Portrait of Falkland Islands Wild Life
+    artist: Various
+    year: '1971'
+    country: Islas Malvinas
+  - id: japanese-masterpieces-for-the-shakuhachi-02-sekiheki-no-fu
+    title: Sekiheki no Fu
+    album: Japanese Masterpieces for the Shakuhachi
+    artist: 'The Masters of Meian-ryu, Kimpu-ryu, Tozan-ryu, and Kikusui-ryu'
+    year: '1991'
+    country: Japon
+  - id: the-singing-humpbacks-04-caribbean-singers
+    title: Caribbean Singers
+    album: The Singing Humpbacks
+    artist: Marine Mammal Fund
+    year: '1960'
+    country: Caribe
+  - id: uranus-ringen
+    title: Uranus Ringen
+    album: Rings of uranus
+    artist: Nasa voyager
+    year: '1986'
+    country: Urano

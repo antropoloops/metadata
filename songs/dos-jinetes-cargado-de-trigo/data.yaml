@@ -1,0 +1,95 @@
+id: dos-jinetes-cargado-de-trigo
+name: Dos jinetes-Cargado De Trigo
+loops:
+  - id: 01-mamou
+    title: Mamou
+    album: Presents Madilu System
+    artist: Franco et le T.P. O.K. Jazz
+    year: '1985'
+    country: Rep. Dem. del Congo
+  - id: 01-panpipe-solo-doina-a-cry-in-wood-strigatul-codrului-dance-of-maide
+    title: Panpipe Solo - Doina a Cry in
+    album: Panpipe Music and Folksongs of Romania
+    artist: Damian Luca
+    year: '1994'
+    country: Rumania
+  - id: 1-02-naa-kore
+    title: Naa-Kore
+    album: '[ocora] Centrafrique / Musique Gbaya / Chants A Penser'
+    artist: Various Artists
+    year: '1977'
+    country: Rep. Centroafricana
+  - id: 1-lue
+    title: Lue
+    album: 'Polynesian Traditional Music of Ontong Java - Solomon Islands - '
+    artist: Choeur de femmes
+    year: '1972'
+    country: Islas Salomon
+  - id: 10-gyzyl-boruk
+    title: Gyzyl Boruk
+    album: Instr. Music of Turkmenistan
+    artist: Annamuradov Annaseiit
+    year: '1993'
+    country: Turkmenistan
+  - id: 13-hoi-xuan
+    title: Hoi Xuan (Spring Festival)
+    album: Instrumental Music of Vietnam
+    artist: VA
+    year: '1994'
+    country: Vietnam
+  - id: 16-viene-cargado-de-trigo
+    title: Viene Cargado De Trigo
+    album: 'The Spanish Recordings: Galicia'
+    artist: manuela lema santos
+    year: '1952'
+    country: España
+  - id: 3-linda-3-05
+    title: Linda
+    album: Musique Centrafricaine - Ocr12
+    artist: ''
+    year: '1962'
+    country: Rep. Centroafricana
+  - id: b4-kaluli
+    title: Heyalo Quartet (Uncut)
+    album: >-
+      Music of Oceania - The Kaluli of Papua Niugini - Weeping and song
+      -BM30SL2702
+    artist: Sululib Village
+    year: '1977'
+    country: Papua-Nueva Guinea
+  - id: a4-orchestre-des-mpilalao-merina
+    title: orchestre des mpilalao merina
+    album: musique malgache
+    artist: Ravolema Fenomanana
+    year: '1965'
+    country: Madagascar
+  - id: a5-mohammed-ben-mohammed-bo-soweid-marhaban-ahlan
+    title: Marhaban Ahlan
+    album: 'Qat, Coffee & Qambus'
+    artist: Mohammed Ben Mohammed Bo-Soweid
+    year: '1960'
+    country: Yemen
+  - id: hakasskii-fol-klore-6
+    title: Два всадника (Dos Jinetes)
+    album: Khakassian Folklore
+    artist: Stepan Kadyshev
+    year: '1974'
+    country: Jakasia
+  - id: musica-de-cuba-pre-castro-3-roving-carnival-band-jawbone-of-an-ass
+    title: jawbone of an ass
+    album: musica de cuba pre-castro
+    artist: roving carnival band
+    year: '1955'
+    country: Cuba
+  - id: napevy-rodiny-musorgskogo-14
+    title: 'Ай, заинька, ай, серенький'
+    album: Tunes from Mussorgsky's homeland
+    artist: 'Ф/А Музея им. Мусоргского, с. Наумово'
+    year: '1989'
+    country: Estonia
+  - id: trushina-d5
+    title: 'Разлився Дунай, разлився'
+    album: Песни Смоленского Поднепровья
+    artist: Olga Trushina
+    year: '1984'
+    country: Smolensk
