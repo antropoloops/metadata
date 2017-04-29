@@ -4,6 +4,7 @@ const join = require("path").join;
 const read = require("fs").readFileSync;
 const write = require("fs").writeFileSync;
 const root = join(__dirname, "..");
+const toJSON = obj => JSON.stringify(obj, null, 2);
 
 // DATA
 const loops = require("./data/BDloops.json");
@@ -24,5 +25,6 @@ module.exports = {
   join,
   read,
   write,
-  root
+  root,
+  toJSON
 };

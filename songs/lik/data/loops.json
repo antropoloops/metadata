@@ -1,0 +1,706 @@
+[
+  {
+    "name": "LIK",
+    "slug": "lik",
+    "album": "LIK",
+    "artist": "antropoloops",
+    "year": "2017",
+    "country": "Sevilla"
+  },
+  {
+    "name": "01 Che Lucero Aguai",
+    "slug": "01-che-lucero-aguai",
+    "album": "2ème Récital",
+    "artist": "Les 4 Guaranis",
+    "year": "1953",
+    "country": "Paraguay"
+  },
+  {
+    "name": "02 - Lo Primero Conjunto Miramar - Reina de cumbias",
+    "slug": "02-lo-primero-conjunto-miramar-reina-de-cumbias",
+    "album": "Carruseles",
+    "artist": "Lo Primero Conjunto Miramar",
+    "year": "1970",
+    "country": "Colombia"
+  },
+  {
+    "name": "02 Baila Rosita",
+    "slug": "02-baila-rosita",
+    "album": "A Orillas del Magdalena",
+    "artist": "Los Guacharacos",
+    "year": "2009",
+    "country": "Colombia"
+  },
+  {
+    "name": "02 Puerto Rico y Su Combo - La Cumbia Del Pescador",
+    "slug": "02-puerto-rico-y-su-combo-la-cumbia-del-pescador",
+    "album": "Curro Fuentes & The Big Band: Cumbia and Descarga Sound Of Colombia (1962-72)",
+    "artist": "Curro Fuentes",
+    "year": "19xx",
+    "country": "Colombia"
+  },
+  {
+    "name": "07 - Lo Primero Conjunto Miramar - Chela",
+    "slug": "07-lo-primero-conjunto-miramar-chela",
+    "album": "Carruseles",
+    "artist": "Lo Primero Conjunto Miramar",
+    "year": "1970",
+    "country": "Colombia"
+  },
+  {
+    "name": "07 Soy Carnaval",
+    "slug": "07-soy-carnaval",
+    "album": "Carnavalitos",
+    "artist": "Edmundo P. Zaldivar",
+    "year": "19xx",
+    "country": "Argentina"
+  },
+  {
+    "name": "08 Cumbia en la India-1",
+    "slug": "08-cumbia-en-la-india-1",
+    "album": "A Orillas del Magdalena",
+    "artist": "Andres Landero y Su Conjunto",
+    "year": "2009",
+    "country": "Colombia"
+  },
+  {
+    "name": "08 Cumbia en la India",
+    "slug": "08-cumbia-en-la-india",
+    "album": "A Orillas del Magdalena",
+    "artist": "Andres Landero y Su Conjunto",
+    "year": "2009",
+    "country": "Colombia"
+  },
+  {
+    "name": "09 Chant Du Jawari",
+    "slug": "09-chant-du-jawari",
+    "album": "Musiques du Haut Xingu — Ocora C 580022",
+    "artist": "Bresil",
+    "year": "1977",
+    "country": "Brasil"
+  },
+  {
+    "name": "1-earlyMorningBirds+deer-bone_flute-2'55",
+    "slug": "1-earlymorningbirds-deer-bone-flute-2-55",
+    "album": "Music of the Tukano and Cuna Peoples of Colombia - rec 1960-1961Pogue Rec 1987",
+    "artist": "cuna people",
+    "year": "1960",
+    "country": "Colombia"
+  },
+  {
+    "name": "10 - Atahualpa Yupanqui - Huajra - Camino Del Indio",
+    "slug": "10-atahualpa-yupanqui-huajra-camino-del-indio",
+    "album": "Camino Del Indio",
+    "artist": "Atahualpa Yupanqui",
+    "year": "1977",
+    "country": "Argentina"
+  },
+  {
+    "name": "12 Exu (part 2)",
+    "slug": "12-exu-part-2",
+    "album": "Amazônia · Cult Music Of Northern Brazil",
+    "artist": "Closing song of a ritual cycle in the batuque houses",
+    "year": "1976",
+    "country": "Brasil"
+  },
+  {
+    "name": "13 - Luzmila Carpio - Ch'uwa Yaku Kawsaypuni",
+    "slug": "13-luzmila-carpio-ch-uwa-yaku-kawsaypuni",
+    "album": "va - My Darling's Love Arrow",
+    "artist": "Luzmila Carpio",
+    "year": "2013",
+    "country": "Bolivia"
+  },
+  {
+    "name": "14-10 Urubatan",
+    "slug": "14-10-urubatan",
+    "album": "Memórias Musicais Vol. 14: Pixinguinha Vol. 3",
+    "artist": "Orquestra Victor Brasileira",
+    "year": "2002",
+    "country": "Brasil"
+  },
+  {
+    "name": "7-17 Relembrando",
+    "slug": "7-17-relembrando",
+    "album": "Memórias Musicais Vol. 07: Luís Americano e Ratinho",
+    "artist": "Luís Americano",
+    "year": "2002",
+    "country": "Brasil"
+  },
+  {
+    "name": "B4 Ritmo de Macumba",
+    "slug": "b4-ritmo-de-macumba",
+    "album": "Batucada No. 3 The Exciting Rhythm of the Wild Brazilian Carnival",
+    "artist": "Escola de Samba da Cidade",
+    "year": "1971",
+    "country": "Brasil"
+  },
+  {
+    "name": "CNRSMH_E_1955_010_001_01",
+    "slug": "cnrsmh-e-1955-010-001-01",
+    "album": "Amazonie - indiens Iawa et Bora",
+    "artist": "Iawa people",
+    "year": "1952",
+    "country": "Amazonia"
+  },
+  {
+    "name": "CNRSMH_E_1959_008_001_001_02",
+    "slug": "cnrsmh-e-1959-008-001-001-02",
+    "album": "Guyane - chants, danses - appel du gibier",
+    "artist": "Kalina ou kali'na",
+    "year": "1953",
+    "country": "Guayana Francesa"
+  },
+  {
+    "name": "CNRSMH_E_1968_013_001_001_04",
+    "slug": "cnrsmh-e-1968-013-001-001-04",
+    "album": "1957-1968 - Musique Boni et Wayana de Guyane - Jean Hurault",
+    "artist": "Hurault, Jean",
+    "year": "1968",
+    "country": "Guyana"
+  },
+  {
+    "name": "CNRSMH_E_1968_013_001_001_08",
+    "slug": "cnrsmh-e-1968-013-001-001-08",
+    "album": "1957-1968 - Musique Boni et Wayana de Guyane - Jean Hurault",
+    "artist": "Boni (Aluku)",
+    "year": "1968",
+    "country": "Guyana"
+  },
+  {
+    "name": "CNRSMH_E_1968_013_001_001_13",
+    "slug": "cnrsmh-e-1968-013-001-001-13",
+    "album": "1957-1968 - Musique Boni et Wayana de Guyane - Jean Hurault",
+    "artist": "WAYANA people",
+    "year": "1968",
+    "country": "Guyana"
+  },
+  {
+    "name": "CNRSMH_E_1972_014_001_001_07",
+    "slug": "cnrsmh-e-1972-014-001-001-07",
+    "album": "Selk'nam (Ona) Chants of Tierra del Fuego, Argentina",
+    "artist": "Lola Kiepja / Selk'nam (Ona)",
+    "year": "1966",
+    "country": "Argentina"
+  },
+  {
+    "name": "CNRSMH_E_1972_014_001_001_08",
+    "slug": "cnrsmh-e-1972-014-001-001-08",
+    "album": "Selk'nam (Ona) Chants of Tierra del Fuego, Argentina",
+    "artist": "Lola Kiepja / Selk'nam (Ona)",
+    "year": "1966",
+    "country": "Argentina"
+  },
+  {
+    "name": "CNRSMH_E_2000_008_001_001_10",
+    "slug": "cnrsmh-e-2000-008-001-001-10",
+    "album": "Bolivie - musique des Calcha",
+    "artist": "Tres mujeres /Calcha",
+    "year": "1996",
+    "country": "Bolivia"
+  },
+  {
+    "name": "CNRSMH_I_1968_032_001_15",
+    "slug": "cnrsmh-i-1968-032-001-15",
+    "album": "PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES",
+    "artist": "Guayaki people",
+    "year": "1963",
+    "country": "Paraguay"
+  },
+  {
+    "name": "CNRSMH_I_1968_032_001_29",
+    "slug": "cnrsmh-i-1968-032-001-29",
+    "album": "PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES",
+    "artist": "Guayaki people",
+    "year": "1963",
+    "country": "Paraguay"
+  },
+  {
+    "name": "CNRSMH_I_1968_032_005_03",
+    "slug": "cnrsmh-i-1968-032-005-03",
+    "album": "PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES",
+    "artist": "Guayaki people",
+    "year": "1963",
+    "country": "Paraguay"
+  },
+  {
+    "name": "CNRSMH_I_1968_032_005_09",
+    "slug": "cnrsmh-i-1968-032-005-09",
+    "album": "PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES",
+    "artist": "Guayaki people",
+    "year": "1963",
+    "country": "Paraguay"
+  },
+  {
+    "name": "CNRSMH_I_1968_032_007_16",
+    "slug": "cnrsmh-i-1968-032-007-16",
+    "album": "PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES",
+    "artist": "Guayaki people",
+    "year": "1963",
+    "country": "Paraguay"
+  },
+  {
+    "name": "CNRSMH_I_1968_032_007_28",
+    "slug": "cnrsmh-i-1968-032-007-28",
+    "album": "PARAGUAY - ZONE ORIENTALE, ARROYO MORITI ; GUAYAKI, GUARANI ; P. CLASTRES",
+    "artist": "Guayaki people",
+    "year": "1963",
+    "country": "Paraguay"
+  },
+  {
+    "name": "CNRSMH_I_2000_004_012_08",
+    "slug": "cnrsmh-i-2000-004-012-08",
+    "album": "Hurault, J. ; Guyane : Boni, Wayana, Wayapi ; 1957-65",
+    "artist": "Boni (Aluku)",
+    "year": "1957",
+    "country": "Guayana Francesa"
+  },
+  {
+    "name": "CNRSMH_I_2007_011_003_03",
+    "slug": "cnrsmh-i-2007-011-003-03",
+    "album": "Brésil (Salvador de Bahia) et Bénin ; Verger, Pierre (1965-1990 ?)",
+    "artist": "Afro-Brasileños",
+    "year": "1965",
+    "country": "Brasil"
+  },
+  {
+    "name": "CNRSMH_I_2007_011_007_03",
+    "slug": "cnrsmh-i-2007-011-007-03",
+    "album": "Brésil (Salvador de Bahia) et Bénin ; Verger, Pierre (1965-1990 ?)",
+    "artist": "Afro-Brasileños",
+    "year": "1965",
+    "country": "Brasil"
+  },
+  {
+    "name": "CNRSMH_I_2008_008_001_35_E",
+    "slug": "cnrsmh-i-2008-008-001-35-e",
+    "album": "BENIN & BRESIL. CORREA DE AZEVEDO,L.H.",
+    "artist": "Heitor Villa Lobos",
+    "year": "1950",
+    "country": "Brasil"
+  },
+  {
+    "name": "Dionisio Ayala-Guaranias Eternas II-04-ANAHI",
+    "slug": "dionisio-ayala-guaranias-eternas-ii-04-anahi",
+    "album": "Guaranías Eternas",
+    "artist": "Dionisio Ayala",
+    "year": "1968",
+    "country": "Paraguay"
+  },
+  {
+    "name": "Facio Santillan-Sortilegio de la flauta de Los Andes-Volumen 1-03-La vieja chacarera",
+    "slug": "facio-santillan-sortilegio-de-la-flauta-de-los-andes-volumen-1-03-la-vieja-chacarera",
+    "album": "Sortilegio, vol. 1",
+    "artist": "Facio Santillán",
+    "year": "1969",
+    "country": "Argentina"
+  },
+  {
+    "name": "La Mechuda",
+    "slug": "la-mechuda",
+    "album": "Yo me he Criao a Puro Campo",
+    "artist": "Atahualpa Yupanqui",
+    "year": "1971",
+    "country": "Argentina"
+  },
+  {
+    "name": "mama che mose (danza paraguaya)",
+    "slug": "mama-che-mose-danza-paraguaya",
+    "album": "Mamá Ché Mosé",
+    "artist": "",
+    "year": "null",
+    "country": "Paraguay"
+  },
+  {
+    "name": "Mistura No. 4",
+    "slug": "mistura-no-4",
+    "album": "Batucada Genial",
+    "artist": "Mester Geraldo e Sua Bateria",
+    "year": "1977",
+    "country": "Brasil"
+  },
+  {
+    "name": "PHv2 03 Malambo",
+    "slug": "phv2-03-malambo",
+    "album": "Paraguayan Harp, Vol. 2",
+    "artist": "Ed Lange and His Trio Andeno",
+    "year": "1977",
+    "country": "Paraguay"
+  },
+  {
+    "name": "PHv2 06 Mi Atarraya (My Fishing Net)",
+    "slug": "phv2-06-mi-atarraya-my-fishing-net",
+    "album": "Paraguayan Harp, Vol. 2",
+    "artist": "Ed Lange and His Trio Andeno",
+    "year": "1977",
+    "country": "Paraguay"
+  },
+  {
+    "name": "Paraguay. Guarani Nandeva & Ayoreo [Ocora] - 06 - Wyrakamyta Mi (Cardinal Bird)",
+    "slug": "paraguay-guarani-nandeva-ayoreo-ocora-06-wyrakamyta-mi-cardinal-bird",
+    "album": "Paraguay. Guarani Nandeva & Ayoreo",
+    "artist": "Various",
+    "year": "2002",
+    "country": "Paraguay"
+  },
+  {
+    "name": "Paraguay. Guarani Nandeva & Ayoreo [Ocora] - 15 - Idem",
+    "slug": "paraguay-guarani-nandeva-ayoreo-ocora-15-idem",
+    "album": "Paraguay. Guarani Nandeva & Ayoreo",
+    "artist": "Various",
+    "year": "2002",
+    "country": "Paraguay"
+  },
+  {
+    "name": "Tierra Jujena",
+    "slug": "tierra-jujena",
+    "album": "Atahualpa Yupanqui...y su Guitarra",
+    "artist": "Atahualpa Yupanqui",
+    "year": "1968",
+    "country": "Argentina"
+  },
+  {
+    "name": "academia de capoeira de angola - 08 - toque de capoeira de sao bento grande",
+    "slug": "academia-de-capoeira-de-angola-08-toque-de-capoeira-de-sao-bento-grande",
+    "album": "academia de capoeira de angola sao jorge dos irmaos unidos de mestre caicara",
+    "artist": "academia de capoeira de angola",
+    "year": "1973",
+    "country": "Brasil"
+  },
+  {
+    "name": "afro-bahian religious songs - 09 - congo-angola for dadalunda",
+    "slug": "afro-bahian-religious-songs-09-congo-angola-for-dadalunda",
+    "album": "afro-bahian religious songs",
+    "artist": "varios",
+    "year": "1941",
+    "country": "Brasil"
+  },
+  {
+    "name": "benitez valencia trio - ecuador - 09 - longuita mia",
+    "slug": "benitez-valencia-trio-ecuador-09-longuita-mia",
+    "album": "ecuador",
+    "artist": "benitez valencia trio",
+    "year": "1958",
+    "country": "Ecuador"
+  },
+  {
+    "name": "bezerra & genaro da silva - partido alto nota 10 - 01 - a necessidade",
+    "slug": "bezerra-genaro-da-silva-partido-alto-nota-10-01-a-necessidade",
+    "album": "partido alto nota 10",
+    "artist": "bezerra & genaro da silva",
+    "year": "1977",
+    "country": "Brasil"
+  },
+  {
+    "name": "bezerra & genaro da silva - partido alto nota 10 - 06 - chico chora",
+    "slug": "bezerra-genaro-da-silva-partido-alto-nota-10-06-chico-chora",
+    "album": "partido alto nota 10",
+    "artist": "bezerra & genaro da silva",
+    "year": "1977",
+    "country": "Brasil"
+  },
+  {
+    "name": "bezerra da silva - partido alto nota 10 vol2 - 04 - apolo do samba",
+    "slug": "bezerra-da-silva-partido-alto-nota-10-vol2-04-apolo-do-samba",
+    "album": "partido alto nota 10 vol2",
+    "artist": "bezerra da silva",
+    "year": "1979",
+    "country": "Brasil"
+  },
+  {
+    "name": "black music of south america - 01 - arullo san antonio",
+    "slug": "black-music-of-south-america-01-arullo-san-antonio",
+    "album": "black music of south america",
+    "artist": "varios",
+    "year": "1970",
+    "country": "Brasil"
+  },
+  {
+    "name": "black music of south america - 04 - capoeira",
+    "slug": "black-music-of-south-america-04-capoeira",
+    "album": "black music of south america",
+    "artist": "varios",
+    "year": "1970",
+    "country": "Brasil"
+  },
+  {
+    "name": "black music of south america - 05 - samba da roda",
+    "slug": "black-music-of-south-america-05-samba-da-roda",
+    "album": "black music of south america",
+    "artist": "varios",
+    "year": "1970",
+    "country": "Brasil"
+  },
+  {
+    "name": "chants et danses d'amerique latine - 08 - paco sanchez - la monica perez",
+    "slug": "chants-et-danses-d-amerique-latine-08-paco-sanchez-la-monica-perez",
+    "album": "chants et danses d'amerique latine",
+    "artist": "paco sanchez",
+    "year": "1963",
+    "country": "Venezuela"
+  },
+  {
+    "name": "conjunto morenada - candombe en el uruguay - 01 - llamada",
+    "slug": "conjunto-morenada-candombe-en-el-uruguay-01-llamada",
+    "album": "candombe en el uruguay",
+    "artist": "conjunto morenada",
+    "year": "1978",
+    "country": "Uruguay"
+  },
+  {
+    "name": "conjunto morenada - candombe en el uruguay - 07 - tamboriles",
+    "slug": "conjunto-morenada-candombe-en-el-uruguay-07-tamboriles",
+    "album": "candombe en el uruguay",
+    "artist": "conjunto morenada",
+    "year": "1978",
+    "country": "Uruguay"
+  },
+  {
+    "name": "diableries peruviennes - 08 - ea huinihuinash",
+    "slug": "diableries-peruviennes-08-ea-huinihuinash",
+    "album": "diableries peruviennes",
+    "artist": "varios",
+    "year": "1977",
+    "country": "Peru"
+  },
+  {
+    "name": "ensemble achalay - musique des andes - 02 - ofrenda al nino jesus",
+    "slug": "ensemble-achalay-musique-des-andes-02-ofrenda-al-nino-jesus",
+    "album": "musique des andes",
+    "artist": "ensemble achalay",
+    "year": "19xx",
+    "country": "Peru"
+  },
+  {
+    "name": "ensemble achalay - musique des andes - 14 - arpita",
+    "slug": "ensemble-achalay-musique-des-andes-14-arpita",
+    "album": "musique des andes",
+    "artist": "ensemble achalay",
+    "year": "19xx",
+    "country": "Ecuador"
+  },
+  {
+    "name": "fetes indiennes - 01 - carnaval de tinta",
+    "slug": "fetes-indiennes-01-carnaval-de-tinta",
+    "album": "fetes indiennes",
+    "artist": "varios en Cuzco",
+    "year": "19xx",
+    "country": "Peru"
+  },
+  {
+    "name": "fiestas of peru - 03 - puru purucha",
+    "slug": "fiestas-of-peru-03-puru-purucha",
+    "album": "fiestas of peru",
+    "artist": "Habitantes de Paucartambo",
+    "year": "1968",
+    "country": "Peru"
+  },
+  {
+    "name": "fiestas of peru - 04 - lamento andino yaravi",
+    "slug": "fiestas-of-peru-04-lamento-andino-yaravi",
+    "album": "fiestas of peru",
+    "artist": "harp solo",
+    "year": "1968",
+    "country": "Peru"
+  },
+  {
+    "name": "flute indienne - 07 - diablada",
+    "slug": "flute-indienne-07-diablada",
+    "album": "flute indienne",
+    "artist": "varios",
+    "year": "19xx",
+    "country": "Bolivia"
+  },
+  {
+    "name": "gerardo servin - sortilege de la harpe des andes - 08 - chacareando",
+    "slug": "gerardo-servin-sortilege-de-la-harpe-des-andes-08-chacareando",
+    "album": "sortilege de la harpe des andes",
+    "artist": "gerardo servin",
+    "year": "1969",
+    "country": "Paraguay"
+  },
+  {
+    "name": "indios del sol - 01 - bolivia - carnaval d'oruro",
+    "slug": "indios-del-sol-01-bolivia-carnaval-d-oruro",
+    "album": "indios del sol",
+    "artist": "bolivia",
+    "year": "1970",
+    "country": "Bolivia"
+  },
+  {
+    "name": "indios del sol - 03 - bolivia - corne d'appel des bergers",
+    "slug": "indios-del-sol-03-bolivia-corne-d-appel-des-bergers",
+    "album": "indios del sol",
+    "artist": "bolivia",
+    "year": "1970",
+    "country": "Bolivia"
+  },
+  {
+    "name": "indios del sol - 09 - peru - inti-raymi",
+    "slug": "indios-del-sol-09-peru-inti-raymi",
+    "album": "indios del sol",
+    "artist": "peru",
+    "year": "1970",
+    "country": "Peru"
+  },
+  {
+    "name": "los corazas, carlos bonilla, gonzalo castro - sortilege de la flute equatorienne - 10 - carvana indigena",
+    "slug": "los-corazas-carlos-bonilla-gonzalo-castro-sortilege-de-la-flute-equatorienne-10-carvana-indigena",
+    "album": "sortilege de la flute equatorienne",
+    "artist": "carlos bonilla",
+    "year": "1975",
+    "country": "Ecuador"
+  },
+  {
+    "name": "los crucenos - bolivia canta - 09 - beatriz",
+    "slug": "los-crucenos-bolivia-canta-09-beatriz",
+    "album": "bolivia canta",
+    "artist": "los cruceños",
+    "year": "1961",
+    "country": "Bolivia"
+  },
+  {
+    "name": "los jairas - bolivia - 09 - el iman de tus ojos",
+    "slug": "los-jairas-bolivia-09-el-iman-de-tus-ojos",
+    "album": "bolivia",
+    "artist": "los jairas",
+    "year": "1968",
+    "country": "Bolivia"
+  },
+  {
+    "name": "los jairas - bolivia - 10 - bailecito colonial",
+    "slug": "los-jairas-bolivia-10-bailecito-colonial",
+    "album": "bolivia",
+    "artist": "los jairas",
+    "year": "1968",
+    "country": "Bolivia"
+  },
+  {
+    "name": "los jairas - bolivia - 11 - san benito",
+    "slug": "los-jairas-bolivia-11-san-benito",
+    "album": "bolivia",
+    "artist": "los jairas",
+    "year": "1968",
+    "country": "Bolivia"
+  },
+  {
+    "name": "mountain music of peru - 03 - folk and popular music - catholic mass song",
+    "slug": "mountain-music-of-peru-03-folk-and-popular-music-catholic-mass-song",
+    "album": "mountain music of peru",
+    "artist": "folk and popular music",
+    "year": "1966",
+    "country": "Peru"
+  },
+  {
+    "name": "mountain music of peru - 11 - quechua - pina pinculu 1 flute",
+    "slug": "mountain-music-of-peru-11-quechua-pina-pinculu-1-flute",
+    "album": "mountain music of peru",
+    "artist": "quechua",
+    "year": "1966",
+    "country": "Peru"
+  },
+  {
+    "name": "mountain music of peru - 37 - quechua - colla marriage song",
+    "slug": "mountain-music-of-peru-37-quechua-colla-marriage-song",
+    "album": "mountain music of peru",
+    "artist": "quechua",
+    "year": "1966",
+    "country": "Peru"
+  },
+  {
+    "name": "mountain music of peru - 42 - santiago - long wooden tube",
+    "slug": "mountain-music-of-peru-42-santiago-long-wooden-tube",
+    "album": "mountain music of peru",
+    "artist": "santiago",
+    "year": "1966",
+    "country": "Peru"
+  },
+  {
+    "name": "mountain music of peru - 56 - aymara - lullaby",
+    "slug": "mountain-music-of-peru-56-aymara-lullaby",
+    "album": "mountain music of peru",
+    "artist": "aymara",
+    "year": "1966",
+    "country": "Peru"
+  },
+  {
+    "name": "music from the land of macchu picchu - 14 - en el hospital de amores",
+    "slug": "music-from-the-land-of-macchu-picchu-14-en-el-hospital-de-amores",
+    "album": "music from the land of macchu picchu",
+    "artist": "Juan Zarate Solier / Ayacucho",
+    "year": "1975",
+    "country": "Peru"
+  },
+  {
+    "name": "musiques de perou paucartambo indiens q'eros - 11 - danse del ucucu",
+    "slug": "musiques-de-perou-paucartambo-indiens-q-eros-11-danse-del-ucucu",
+    "album": "musiques de pérou: paucartambo indiens q'eros",
+    "artist": "Habitantes de Paucartambo",
+    "year": "1965",
+    "country": "Peru"
+  },
+  {
+    "name": "roberto guarani - harpe paraguayenne - 03 - cascada",
+    "slug": "roberto-guarani-harpe-paraguayenne-03-cascada",
+    "album": "harpe paraguayenne",
+    "artist": "roberto guarani",
+    "year": "1970",
+    "country": "Paraguay"
+  },
+  {
+    "name": "roberto guarani - harpe paraguayenne - 12 - moliendo cafe",
+    "slug": "roberto-guarani-harpe-paraguayenne-12-moliendo-cafe",
+    "album": "harpe paraguayenne",
+    "artist": "roberto guarani",
+    "year": "1970",
+    "country": "Paraguay"
+  },
+  {
+    "name": "sergio cuevas - la harpe indienne - 02 - som coiman",
+    "slug": "sergio-cuevas-la-harpe-indienne-02-som-coiman",
+    "album": "la harpe indienne",
+    "artist": "sergio cuevas",
+    "year": "1969",
+    "country": "Paraguay"
+  },
+  {
+    "name": "sergio cuevas - la harpe indienne - 03 - misionera",
+    "slug": "sergio-cuevas-la-harpe-indienne-03-misionera",
+    "album": "la harpe indienne",
+    "artist": "sergio cuevas",
+    "year": "1969",
+    "country": "Paraguay"
+  },
+  {
+    "name": "sergio cuevas - la harpe indienne - 07 - cascada",
+    "slug": "sergio-cuevas-la-harpe-indienne-07-cascada",
+    "album": "la harpe indienne",
+    "artist": "sergio cuevas",
+    "year": "1969",
+    "country": "Paraguay"
+  },
+  {
+    "name": "viracocha - 08 - tupac amaru",
+    "slug": "viracocha-08-tupac-amaru",
+    "album": "viracocha",
+    "artist": "Habitantes de Paucartambo",
+    "year": "1972",
+    "country": "Peru"
+  },
+  {
+    "name": "ze' cupido e sua sanfona de oito baixos - 11 - frevo de ze'",
+    "slug": "ze-cupido-e-sua-sanfona-de-oito-baixos-11-frevo-de-ze",
+    "album": "ze' cupido e sua sanfona de oito baixos",
+    "artist": "ze' cupido",
+    "year": "1972",
+    "country": "Brasil"
+  },
+  {
+    "name": "èquateur - 05 - air de ducena",
+    "slug": "quateur-05-air-de-ducena",
+    "album": "èquateur",
+    "artist": "varios",
+    "year": "1975",
+    "country": "Ecuador"
+  }
+]

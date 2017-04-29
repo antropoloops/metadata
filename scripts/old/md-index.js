@@ -28,7 +28,7 @@ const Metadata = `
 
 const SongItem = name =>
   `
-- ${name} (${songs[name].length} loops)`;
+- [${name}](https://github.com/antropoloops/metadata/tree/master/songs/${toSlug(name)}) (${songs[name].length} loops)`;
 
 const Song = name => {
   const song = songs[name];

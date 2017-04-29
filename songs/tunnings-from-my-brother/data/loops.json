@@ -1,0 +1,162 @@
+[
+  {
+    "name": "01 - Al-Kartch",
+    "slug": "01-al-kartch",
+    "album": "Music of the Nubians, Aswan, Egypt",
+    "artist": "Aswan Troupe for Folkloric Arts",
+    "year": "1998",
+    "country": "Egipto"
+  },
+  {
+    "name": "02 Chant de femmes",
+    "slug": "02-chant-de-femmes",
+    "album": "[ocora] Burundi: Musiques Traditionnelles",
+    "artist": "Various Artists",
+    "year": "1967",
+    "country": "Burundi"
+  },
+  {
+    "name": "02.Dannoura",
+    "slug": "02-dannoura",
+    "album": "Biwa, The World of Tsuruta Kin",
+    "artist": "Mizuki Yoko/Tsuruta Kinshi",
+    "year": "1972",
+    "country": "Japon"
+  },
+  {
+    "name": "03 - Nubian Rhythms",
+    "slug": "03-nubian-rhythms",
+    "album": "Music of the Nubians, Aswan, Egypt",
+    "artist": "VA",
+    "year": "1998",
+    "country": "Egipto"
+  },
+  {
+    "name": "04 - Zafa",
+    "slug": "04-zafa",
+    "album": "Music of the Nubians, Aswan, Egypt",
+    "artist": "VA",
+    "year": "1998",
+    "country": "Egipto"
+  },
+  {
+    "name": "06 - Forkey Deer - Sidna Myers, Hillsvill, VA",
+    "slug": "06-forkey-deer-sidna-myers-hillsvill-va",
+    "album": "High Atmosphere",
+    "artist": "Sidna Myers, Hillsvill, VA",
+    "year": "1965",
+    "country": "Virginia"
+  },
+  {
+    "name": "07.Tolagai",
+    "slug": "07-tolagai",
+    "album": "Music of Kazakhstan I",
+    "artist": "Kairat Baibosynov",
+    "year": "1994",
+    "country": "Kazajstan"
+  },
+  {
+    "name": "10 - Half Shaved - Wade Ward, Independence, VA",
+    "slug": "10-half-shaved-wade-ward-independence-va",
+    "album": "High Atmosphere",
+    "artist": "Wade Ward, Independence, VA",
+    "year": "1965",
+    "country": "Virginia"
+  },
+  {
+    "name": "11 A Mi Mata la Pena",
+    "slug": "11-a-mi-mata-la-pena",
+    "album": "Mata la Pena",
+    "artist": "Manuel Vallejo",
+    "year": "1935",
+    "country": "España"
+  },
+  {
+    "name": "24-madisons_lively_stones_-_its_time_to_make_a_change",
+    "slug": "24-madisons-lively-stones-its-time-to-make-a-change",
+    "album": "Classic African American Gospel",
+    "artist": "VA",
+    "year": "1994",
+    "country": "Washington"
+  },
+  {
+    "name": "A11-EskimoTravelSong-0'49",
+    "slug": "a11-eskimotravelsong-0-49",
+    "album": "The Music Of Primitive Man",
+    "artist": "",
+    "year": "1973",
+    "country": "Alaska"
+  },
+  {
+    "name": "A19-CunaShamanChant-03",
+    "slug": "a19-cunashamanchant-03",
+    "album": "The Music Of Primitive Man",
+    "artist": "",
+    "year": "1973",
+    "country": "Panama"
+  },
+  {
+    "name": "A9-LaplandSamiJoik-1'18",
+    "slug": "a9-laplandsamijoik-1-18",
+    "album": "The Music Of Primitive Man",
+    "artist": "cuna people",
+    "year": "1973",
+    "country": "Laponia"
+  },
+  {
+    "name": "AzizMian-A-29'55",
+    "slug": "azizmian-a-29-55",
+    "album": "Qawwal",
+    "artist": "Aziz Mian",
+    "year": "1978",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Haj_Mehdi_Ben_Mbarak-Assife_ingui-a-5'03",
+    "slug": "haj-mehdi-ben-mbarak-assife-ingui-a-5-03",
+    "album": "assife ingui",
+    "artist": "Haj Mehdi Ben_Mbarak",
+    "year": "19¿¿",
+    "country": "Marruecos"
+  },
+  {
+    "name": "Hamida_Didouch-b",
+    "slug": "hamida-didouch-b",
+    "album": "Kais el belhar",
+    "artist": "Hamida Didouch",
+    "year": "19¿¿",
+    "country": "Argelia"
+  },
+  {
+    "name": "JosephineBaker-BesameMucho",
+    "slug": "josephinebaker-besamemucho",
+    "album": "78 rpm",
+    "artist": "Josephine Baker",
+    "year": "19¿¿",
+    "country": "Francia"
+  },
+  {
+    "name": "The Story of the Music Box 30 Holy City",
+    "slug": "the-story-of-the-music-box-30-holy-city",
+    "album": "The Story of the Music Box",
+    "artist": "Console",
+    "year": "1892",
+    "country": "Reino Unido"
+  },
+  {
+    "name": "kyys debiliie b4",
+    "slug": "kyys-debiliie-b4",
+    "album": "Yakut epopeya heroica ",
+    "artist": "Ustin Nohsorov",
+    "year": "1993",
+    "country": "Yakutia"
+  },
+  {
+    "name": "morse",
+    "slug": "morse",
+    "album": "Murmurs Of Earth 03 sounds",
+    "artist": "Murmurs Of Earth",
+    "year": "1977",
+    "country": "Florida"
+  }
+]

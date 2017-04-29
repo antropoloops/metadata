@@ -1,5 +1,5 @@
-const { data, write, join, root, toSlug } = require("./shared");
-const { songs, fields } = data
+const { shell, data, write, join, root, toSlug, toJSON } = require("./shared");
+const { songs, fields } = data;
 
 const each = (list, fn) => list.map(fn).join("");
 
@@ -30,7 +30,21 @@ ${tableBody(fields, song)}
 `;
 };
 
+const normalize = song => ({
+  name: song.nombreArchivo,
+  slug: toSlug(song.nombreArchivo),
+  album: song.album,
+  artist: song.artista,
+  year: song.fecha,
+  country: song.lugar
+});
+
 data.songNames.forEach(name => {
-  const out = join(root, "songs", toSlug(name), "README.md");
-  write(out, Song(name))
+  shell.mkdir("-p", join(root, "songs", toSlug(name), "data"));
+  const loops = join(root, "songs", toSlug(name), "data", "loops.json");
+  write(loops, toJSON(songs[name].map(normalize)));
+  const song = join(root, "songs", toSlug(name), "data", "song.json");
+  write(song, toJSON({ name }));
+  const readme = join(root, "songs", toSlug(name), "README.md");
+  write(readme, Song(name));
 });
