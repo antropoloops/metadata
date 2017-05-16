@@ -1,13 +1,5 @@
-const loops = require("../BDloops.json");
-
-const fields = Object.keys(loops[0]);
-const songs = loops.reduce((songs, loop) => {
-  const name = loop.antropoloop;
-  if (!songs[name]) songs[name] = [];
-  songs[name].push(loop);
-  return songs;
-}, {});
-const songNames = Object.keys(songs);
+const { yaml, shell, data, write, join, root, toSlug, toJSON } = require("./shared");
+const { songs, fields } = data;
 
 const each = (list, fn) => list.map(fn).join("");
 
@@ -38,4 +30,23 @@ ${tableBody(fields, song)}
 `;
 };
 
-process.stdout.write(Song("Lik"));
+const normalize = song => ({
+  id: toSlug(song.nombreArchivo),
+  title: song.titulo,
+  album: song.album,
+  artist: song.artista,
+  year: song.fecha,
+  country: song.lugar
+});
+
+data.songNames.forEach(name => {
+  shell.mkdir("-p", join(root, "songs", toSlug(name), "data"));
+  const data = join(root, "songs", toSlug(name), "data.yaml");
+  write(data, yaml.safeDump({
+    id: toSlug(name),
+    name: name,
+    loops: songs[name].map(normalize)
+  }))
+  const readme = join(root, "songs", toSlug(name), "README.md");
+  write(readme, Song(name));
+});
